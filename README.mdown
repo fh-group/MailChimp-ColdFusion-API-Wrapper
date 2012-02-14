@@ -8,7 +8,7 @@ We use it heavily at fh group with our clients and wish to contribute back to th
 Currently, we have not implemented the full API nor have we even implemented the full `list` section of the api.
 
 ## Install
-1. `git clone git@github.com:al3x-edge/MailChimp-ColdFusion-API-Wrapper.git`
+1. `git clone git@github.com:fh-group/MailChimp-ColdFusion-API-Wrapper.git`
 2. Move `includes/cf/mailchimp.cfc` to where ever you have your collection of .cfcs.
 3. Instantiate the object and use the API method below.
 
@@ -26,7 +26,7 @@ For now, please read the documentation within the source/cfc itself.
 1. Fork our repository on Github
 2. Clone it to your local machine: `git clone git@github.com:<yourname>/MailChimp-ColdFusion-API-Wrapper.git`
 3. `cd MailChimp-ColdFusion-API-Wrapper`
-4. Add the main repository as a remote: `git remote add upstream git://github.com/al3x-edge/MailChimp-ColdFusion-API-Wrapper.git`
+4. Add the main repository as a remote: `git remote add upstream git://github.com/fh-group/MailChimp-ColdFusion-API-Wrapper.git`
 5. For each section or individual change, create a new branch: `git fetch upstream && git checkout -b <branchname> upstream/master`
 6. Make your edits
 7. When done: `git commit -a`
