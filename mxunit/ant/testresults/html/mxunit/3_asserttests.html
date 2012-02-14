@@ -1,0 +1,367 @@
+<html xmlns:lxslt="http://xml.apache.org/xslt" xmlns:stringutils="xalan://org.apache.tools.ant.util.StringUtils">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<title>MXUnit Test Results: mxunit.asserttests</title>
+<link rel="stylesheet" type="text/css" title="Style" href="../stylesheet.css">
+<script type="text/javascript" language="JavaScript">
+        var TestCases = new Array();
+        var cur;
+        
+    cur = TestCases['mxunit.asserttests'] = new Array();
+    
+        cur['__MXUNITINHERITANCETREE__'] = '';
+    
+        cur['ADDITIONALINFORMATION'] = '';
+    
+        cur['ADMIN_GROUPS'] = 'Ext Web Admins,Ext Web WebAdmin Admins';
+    
+        cur['ADS'] = 'Complex Data Type...Not Displaying';
+    
+        cur['APPLICATIONNAME'] = 'admin_webadmin-lord-com-dev';
+    
+        cur['APPSERVER'] = 'JRun4';
+    
+        cur['ARCH'] = 'x86';
+    
+        cur['AUTH_PASSWORD'] = '';
+    
+        cur['AUTH_TYPE'] = '';
+    
+        cur['AUTH_USER'] = '';
+    
+        cur['BUILDNUMBER'] = '';
+    
+        cur['CACHE'] = 'C:\\Cache\\';
+    
+        cur['CAMPAIGN_MONITOR'] = 'Complex Data Type...Not Displaying';
+    
+        cur['CERT_COOKIE'] = '';
+    
+        cur['CERT_FLAGS'] = '';
+    
+        cur['CERT_ISSUER'] = '';
+    
+        cur['CERT_KEYSIZE'] = '';
+    
+        cur['CERT_SECRETKEYSIZE'] = '';
+    
+        cur['CERT_SERIALNUMBER'] = '';
+    
+        cur['CERT_SERVER_ISSUER'] = '';
+    
+        cur['CERT_SERVER_SUBJECT'] = '';
+    
+        cur['CERT_SUBJECT'] = '';
+    
+        cur['CF_TEMPLATE_PATH'] = 'C:\\LORDAdmin\\mxunit\\runner\\HttpAntRunner.cfc';
+    
+        cur['CFID'] = '3803';
+    
+        cur['CFTOKEN'] = 'ee9e3a56a5786d0c-AA51CC8E-1C42-E105-ECE061F6C12E9C50';
+    
+        cur['CONTENT_LENGTH'] = '';
+    
+        cur['CONTENT_TYPE'] = '';
+    
+        cur['CONTEXT_PATH'] = '';
+    
+        cur['EXPIRATION'] = '{ts \'2011-12-22 15:06:58\'}';
+    
+        cur['FOLDER'] = '';
+    
+        cur['GATEWAY_INTERFACE'] = 'CGI/1.1';
+    
+        cur['HTTP_ACCEPT'] = '';
+    
+        cur['HTTP_ACCEPT_ENCODING'] = '';
+    
+        cur['HTTP_ACCEPT_LANGUAGE'] = '';
+    
+        cur['HTTP_CONNECTION'] = '';
+    
+        cur['HTTP_COOKIE'] = '';
+    
+        cur['HTTP_HOST'] = 'webadmin.lord.com.dev';
+    
+        cur['HTTP_REFERER'] = '';
+    
+        cur['HTTP_USER_AGENT'] = 'Jakarta Commons-HttpClient/3.1';
+    
+        cur['HTTPS'] = 'off';
+    
+        cur['HTTPS_KEYSIZE'] = '';
+    
+        cur['HTTPS_SECRETKEYSIZE'] = '';
+    
+        cur['HTTPS_SERVER_ISSUER'] = '';
+    
+        cur['HTTPS_SERVER_SUBJECT'] = '';
+    
+        cur['INQ'] = 'dev.inqleadmanagement.com';
+    
+        cur['INSTALLKIT'] = 'Native Windows';
+    
+        cur['KEY'] = 'MuGhsIDaz5DvehZCRInPYqUIR6mpy8VL50uY0m427HWzlnLo9wZfYAqKP413Dxq';
+    
+        cur['LANGUAGE_ID'] = '1';
+    
+        cur['LOGIN_SERVER'] = 'http://auth.lord.com.dev';
+    
+        cur['MAIL_SERVER'] = 'macserver1';
+    
+        cur['MAILCHIMP'] = 'Complex Data Type...Not Displaying';
+    
+        cur['MXUNIT_SUMMARY'] = '47,0,0,500';
+    
+        cur['NAME'] = 'Windows 2003';
+    
+        cur['PATH_INFO'] = '/mxunit/runner/HttpAntRunner.cfc';
+    
+        cur['PATH_TRANSLATED'] = 'C:\\LORDAdmin\\mxunit\\runner\\HttpAntRunner.cfc';
+    
+        cur['PRODUCTLEVEL'] = 'Standard';
+    
+        cur['PRODUCTNAME'] = 'ColdFusion Server';
+    
+        cur['PRODUCTVERSION'] = '8,0,1,195765';
+    
+        cur['PUBLICKEY'] = 'FeK1uur3DyR6aLgsK8XmYA==';
+    
+        cur['QUERY_STRING'] = 'method=run&type=testcase&value=mxunit.tests.framework.AssertTest&recurse=false&packageName=mxunit.asserttests';
+    
+        cur['REMOTE_ADDR'] = '10.10.10.197';
+    
+        cur['REMOTE_HOST'] = '10.10.10.197';
+    
+        cur['REMOTE_USER'] = '';
+    
+        cur['REQUEST_METHOD'] = 'GET';
+    
+        cur['REQUIRED_GROUP_PREFIXS'] = '';
+    
+        cur['ROOTDIR'] = 'C:\\ColdFusion8';
+    
+        cur['SCRIPT_NAME'] = '/mxunit/runner/HttpAntRunner.cfc';
+    
+        cur['SERVER_NAME'] = 'webadmin.lord.com.dev';
+    
+        cur['SERVER_PORT'] = '80';
+    
+        cur['SERVER_PORT_SECURE'] = '0';
+    
+        cur['SERVER_PROTOCOL'] = 'HTTP/1.1';
+    
+        cur['SERVER_SOFTWARE'] = 'Microsoft-IIS/6.0';
+    
+        cur['SITE_ID'] = '3';
+    
+        cur['SUPPORTEDLOCALES'] = 'Chinese (China),Chinese (Hong Kong),Chinese (Taiwan),Dutch (Belgian),Dutch (Standard),English (Australian),English (Canadian),English (New Zealand),English (UK),English (US),French (Belgian),French (Canadian),French (Standard),French (Swiss),German (Austrian),German (Standard),German (Swiss),Italian (Standard),Italian (Swiss),Japanese,Korean,Norwegian (Bokmal),Norwegian (Nynorsk),Portuguese (Brazilian),Portuguese (Standard),Spanish (Mexican),Spanish (Modern),Spanish (Standard),Swedish,ar,ar_AE,ar_BH,ar_DZ,ar_EG,ar_IQ,ar_JO,ar_KW,ar_LB,ar_LY,ar_MA,ar_OM,ar_QA,ar_SA,ar_SD,ar_SY,ar_TN,ar_YE,be,be_BY,bg,bg_BG,ca,ca_ES,cs,cs_CZ,da,da_DK,de,de_AT,de_CH,de_DE,de_LU,el,el_CY,el_GR,en,en_AU,en_CA,en_GB,en_IE,en_IN,en_MT,en_NZ,en_PH,en_SG,en_US,en_ZA,es,es_AR,es_BO,es_CL,es_CO,es_CR,es_DO,es_EC,es_ES,es_GT,es_HN,es_MX,es_NI,es_PA,es_PE,es_PR,es_PY,es_SV,es_US,es_UY,es_VE,et,et_EE,fi,fi_FI,fr,fr_BE,fr_CA,fr_CH,fr_FR,fr_LU,ga,ga_IE,hi_IN,hr,hr_HR,hu,hu_HU,in,in_ID,is,is_IS,it,it_CH,it_IT,iw,iw_IL,ja,ja_JP,ja_JP_JP,ko,ko_KR,lt,lt_LT,lv,lv_LV,mk,mk_MK,ms,ms_MY,mt,mt_MT,nl,nl_BE,nl_NL,no,no_NO,no_NO_NY,pl,pl_PL,pt,pt_BR,pt_PT,ro,ro_RO,ru,ru_RU,sk,sk_SK,sl,sl_SI,sq,sq_AL,sr,sr_BA,sr_CS,sr_ME,sr_RS,sv,sv_SE,th,th_TH,th_TH_TH,tr,tr_TR,uk,uk_UA,vi,vi_VN,zh,zh_CN,zh_HK,zh_SG,zh_TW';
+    
+        cur['SYNC_SERVER'] = 'http://lordmarcommall.com.dev';
+    
+        cur['VERSION'] = '5.2';
+    
+        cur['WEB_SERVER_API'] = '';
+    
+        cur['XMLPATH'] = 'C:\\LordDesignTime\\xml\\pub\\lord\\';
+    </script><script type="text/javascript" language="JavaScript">
+        function displayProperties (name) {
+          var win = window.open('','JUnitSystemProperties','scrollbars=1,resizable=1');
+          var doc = win.document;
+          doc.open();
+          doc.write("<html><head><title>Properties of " + name + "</title>");
+          doc.write("<style type=\"text/css\">");
+          doc.write("body {font:normal 68% verdana,arial,helvetica; color:#000000; }");
+          doc.write("table tr td, table tr th { font-size: 68%; }");
+          doc.write("table.properties { border-collapse:collapse; border-left:solid 1 #cccccc; border-top:solid 1 #cccccc; padding:5px; }");
+          doc.write("table.properties th { text-align:left; border-right:solid 1 #cccccc; border-bottom:solid 1 #cccccc; background-color:#eeeeee; }");
+          doc.write("table.properties td { font:normal; text-align:left; border-right:solid 1 #cccccc; border-bottom:solid 1 #cccccc; background-color:#fffffff; }");
+          doc.write("h3 { margin-bottom: 0.5em; font: bold 115% verdana,arial,helvetica }");
+          doc.write("</style>");
+          doc.write("</head><body>");
+          doc.write("<h3>Properties of " + name + "</h3>");
+          doc.write("<div align=\"right\"><a href=\"javascript:window.close();\">Close</a></div>");
+          doc.write("<table class='properties'>");
+          doc.write("<tr><th>Name</th><th>Value</th></tr>");
+          for (prop in TestCases[name]) {
+            doc.write("<tr><th>" + prop + "</th><td>" + TestCases[name][prop] + "</td></tr>");
+          }
+          doc.write("</table>");
+          doc.write("</body></html>");
+          doc.close();
+          win.focus();
+        }
+      
+      </script>
+</head>
+<body>
+<h1>MXUnit Test Results</h1>
+<table width="100%">
+<tr>
+<td align="left"></td><td align="right">Designed for use with <a href="http://www.junit.org/">JUnit</a> and <a href="http://ant.apache.org/">Ant</a>.</td>
+</tr>
+</table>
+<hr size="1">
+<h3>Class mxunit.asserttests</h3>
+<table class="details" border="0" cellpadding="5" cellspacing="2" width="95%">
+<tr valign="top">
+<th width="80%">Name</th><th>Tests</th><th>Errors</th><th>Failures</th><th nowrap>Time(s)</th><th nowrap>Time Stamp</th><th>Host</th>
+</tr>
+<tr valign="top" class="Pass">
+<td><a title="Display all tests" href="3_asserttests.html">asserttests</a></td><td><a title="Display all tests" href="3_asserttests.html">47</a></td><td>0</td><td>0</td><td>0.500</td><td>01/04/12 3:03:35 PM</td><td>10.10.10.197</td>
+</tr>
+</table>
+<h2>Tests</h2>
+<table class="details" border="0" cellpadding="5" cellspacing="2" width="95%">
+<tr valign="top">
+<th>Name</th><th>Status</th><th width="80%">Type</th><th nowrap>Time(s)</th>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testNormalizeArgumentsCFUnitTrue"></a>testNormalizeArgumentsCFUnitTrue</td><td>Success</td><td></td><td>0.078</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertEqualsCFUnitFailure"></a>testAssertEqualsCFUnitFailure</td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testNormalizeArgumentsDefaultXMLDoc"></a>testNormalizeArgumentsDefaultXMLDoc</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testFailNotEquals"></a>testFailNotEquals</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertEquals_fails_for_longer_expected_array"></a>assertEquals_fails_for_longer_expected_array</td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertFailures"></a>testAssertFailures</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertEqualsCaseShouldPassOnSameStrings"></a>testAssertEqualsCaseShouldPassOnSameStrings</td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertEqualsNumbersFailures"></a>testAssertEqualsNumbersFailures</td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="whenAssertEqualsPassesExpectedAndActualValuesShouldBeEmpty"></a>whenAssertEqualsPassesExpectedAndActualValuesShouldBeEmpty</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testNormalizeArgumentsCFUnitEquals"></a>testNormalizeArgumentsCFUnitEquals</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertEquals_passes_for_array_with_matching_arrays"></a>assertEquals_passes_for_array_with_matching_arrays</td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testFailEqualsCFUnit"></a>testFailEqualsCFUnit</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertEqualsCaseShouldFailOnDifferentCasedStrings"></a>testAssertEqualsCaseShouldFailOnDifferentCasedStrings</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="whenAssertEqualsFailsForStringsExpectedAndActualValuesShouldBePopulated"></a>whenAssertEqualsFailsForStringsExpectedAndActualValuesShouldBePopulated</td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testFailEquals"></a>testFailEquals</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertQueryEquals_fails_for_mismatching_queries"></a>assertQueryEquals_fails_for_mismatching_queries</td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertEqualsStructsDeepComparison"></a>testAssertEqualsStructsDeepComparison</td><td>Success</td><td></td><td>0.078</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertEquals_passes_for_matching_arrays"></a>assertEquals_passes_for_matching_arrays</td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertStructEquals_fails_for_mismatching_simple_structs"></a>assertStructEquals_fails_for_mismatching_simple_structs</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertEquals_passes_for_array_with_matching_structs"></a>assertEquals_passes_for_array_with_matching_structs</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertEqualsStringsFailures"></a>testAssertEqualsStringsFailures</td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertTrue"></a>testAssertTrue</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertStructEquals_succeeds_for_matching_nested_structs_with_different_key_case"></a>assertStructEquals_succeeds_for_matching_nested_structs_with_different_key_case</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testNormalizeArgumentsDefaultEmptyArray"></a>testNormalizeArgumentsDefaultEmptyArray</td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertEquals_fails_for_array_with_mismatching_arrays"></a>assertEquals_fails_for_array_with_mismatching_arrays</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertEquals_passes_for_array_with_matching_queries"></a>assertEquals_passes_for_array_with_matching_queries</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertEqualsNumbers"></a>testAssertEqualsNumbers</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertFalseFailure"></a>testAssertFalseFailure</td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testDoubleHashError"></a>testDoubleHashError</td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertEquals_fails_for_longer_actual_array"></a>assertEquals_fails_for_longer_actual_array</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertEquals_fails_for_array_with_mismatching_structs"></a>assertEquals_fails_for_array_with_mismatching_structs</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testFailure"></a>testFailure</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testNormalizeArgumentsDefaultTrue"></a>testNormalizeArgumentsDefaultTrue</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertEquals_fails_for_array_with_mismatching_queries"></a>assertEquals_fails_for_array_with_mismatching_queries</td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertQueryEquals_succeeds_for_equal_queries"></a>assertQueryEquals_succeeds_for_equal_queries</td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertEqualsStructsFailures"></a>testAssertEqualsStructsFailures</td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testFailNotEqualsCFUnit"></a>testFailNotEqualsCFUnit</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testGetStringValue"></a>testGetStringValue</td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssert"></a>testAssert</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="failNotEqualsShouldAllowInvalidXMLCharsInActual"></a>failNotEqualsShouldAllowInvalidXMLCharsInActual</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertEqualsStructs"></a>testAssertEqualsStructs</td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertStructEquals_succeeds_for_matching_nested_structs"></a>assertStructEquals_succeeds_for_matching_nested_structs</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testNormalizeArgumentsDefaultEquals"></a>testNormalizeArgumentsDefaultEquals</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertFalse"></a>testAssertFalse</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertEquals"></a>testAssertEquals</td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAssertEqualsStrings"></a>testAssertEqualsStrings</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="assertStructEquals_fails_for_mismatching_nested_structs"></a>assertStructEquals_fails_for_mismatching_nested_structs</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+</table>
+<div class="Properties">
+<a href="javascript:displayProperties('mxunit.asserttests');">
+                    Properties &raquo;
+                </a>
+</div>
+</body>
+</html>

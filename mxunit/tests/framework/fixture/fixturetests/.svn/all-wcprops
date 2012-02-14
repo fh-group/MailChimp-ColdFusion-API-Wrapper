@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/fixturetests
+END
+SubClassWithNoMethodsTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/fixturetests/SubClassWithNoMethodsTest.cfc
+END
+SuperClassWithPrivateMethodsTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/fixturetests/SuperClassWithPrivateMethodsTest.cfc
+END
+AnotherRandomTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/fixturetests/AnotherRandomTest.cfc
+END
+AnotherRandomTests.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/fixturetests/AnotherRandomTests.cfc
+END
+SomeRandomTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/fixturetests/SomeRandomTest.cfc
+END

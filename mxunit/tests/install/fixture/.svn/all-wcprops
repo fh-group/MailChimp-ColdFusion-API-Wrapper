@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/install/fixture
+END
+test.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/install/fixture/test.cfm
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/install/fixture/index.cfm
+END

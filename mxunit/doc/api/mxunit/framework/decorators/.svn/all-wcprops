@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/doc/api/mxunit/framework/decorators
+END
+TransactionRollbackDecorator.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/doc/api/mxunit/framework/decorators/TransactionRollbackDecorator.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/doc/api/mxunit/framework/decorators/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/doc/api/mxunit/framework/decorators/package-summary.html
+END
+DataProviderDecorator.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/doc/api/mxunit/framework/decorators/DataProviderDecorator.html
+END
+AlphabeticallyOrderedTestsDecorator.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/doc/api/mxunit/framework/decorators/AlphabeticallyOrderedTestsDecorator.html
+END

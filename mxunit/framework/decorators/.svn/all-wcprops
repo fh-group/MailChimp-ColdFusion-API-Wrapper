@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/framework/decorators
+END
+DataProviderDecorator.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/framework/decorators/DataProviderDecorator.cfc
+END
+AlphabeticallyOrderedTestsDecorator.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/framework/decorators/AlphabeticallyOrderedTestsDecorator.cfc
+END
+TransactionRollbackDecorator.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/framework/decorators/TransactionRollbackDecorator.cfc
+END

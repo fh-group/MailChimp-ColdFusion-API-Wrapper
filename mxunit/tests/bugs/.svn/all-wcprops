@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs
+END
+105.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/105.cfc
+END
+105ExtendedTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/105ExtendedTest.cfc
+END
+bug126.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/bug126.cfc
+END
+80.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/80.cfc
+END
+90.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/90.cfc
+END
+ExpectedExceptionBug147Test.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/ExpectedExceptionBug147Test.cfc
+END
+93.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/93.cfc
+END
+149Test.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/149Test.cfc
+END
+Bug115.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/Bug115.cfc
+END

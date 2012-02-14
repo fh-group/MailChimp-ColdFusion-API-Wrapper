@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/fixture
+END
+93sample.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/fixture/93sample.cfc
+END
+test-with_hyphen.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/fixture/test-with_hyphen.cfc
+END
+test_with_underscore.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/fixture/test_with_underscore.cfc
+END

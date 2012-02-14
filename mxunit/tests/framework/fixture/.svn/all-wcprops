@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture
+END
+NewCFComponent.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/NewCFComponent.cfc
+END
+mxunit-TestCase-Template.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/mxunit-TestCase-Template.cfc
+END
+Mocking.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/Mocking.cfc
+END
+querysim.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/querysim.cfm
+END
+ATestSuite.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/ATestSuite.cfc
+END
+DataProviderFixture.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/DataProviderFixture.cfc
+END
+ComponentWithPrivateMethods.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/ComponentWithPrivateMethods.cfc
+END
+ComparatorTestData.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/ComparatorTestData.cfc
+END
+MyCFC.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/MyCFC.cfc
+END
+MyCFCTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/MyCFCTest.cfc
+END
+MockFactory.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/MockFactory.cfc
+END
+TestWithExpectedExceptionAttributes.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/TestWithExpectedExceptionAttributes.cfc
+END
+ParentWithPrivateMethods.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/ParentWithPrivateMethods.cfc
+END
+TestAssertComponent.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/TestAssertComponent.cfc
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/interfaces
+END
+SubInterface.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/interfaces/SubInterface.cfc
+END
+AnInterface.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/interfaces/AnInterface.cfc
+END
+OtherInterface.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/interfaces/OtherInterface.cfc
+END
+AComponent.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/fixture/interfaces/AComponent.cfc
+END

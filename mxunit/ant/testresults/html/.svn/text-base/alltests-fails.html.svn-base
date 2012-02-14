@@ -1,0 +1,87 @@
+<html xmlns:lxslt="http://xml.apache.org/xslt" xmlns:stringutils="xalan://org.apache.tools.ant.util.StringUtils">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<title>MXUnit Test Results: All Failures</title>
+<link rel="stylesheet" type="text/css" title="Style" href="stylesheet.css">
+</head>
+<body onload="open('allclasses-frame.html','classListFrame')">
+<h1>MXUnit Test Results</h1>
+<table width="100%">
+<tr>
+<td align="left"></td><td align="right">Designed for use with <a href="http://www.junit.org/">JUnit</a> and <a href="http://ant.apache.org/">Ant</a>.</td>
+</tr>
+</table>
+<hr size="1">
+<h2>All Failures</h2>
+<table class="details" border="0" cellpadding="5" cellspacing="2" width="95%">
+<tr valign="top">
+<th>Class</th><th>Name</th><th>Status</th><th width="80%">Type</th><th nowrap>Time(s)</th>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="simpleCompareDifferences"></a><a href="mxunit/2_plugintests.html#simpleCompareDifferences">simpleCompareDifferences</a></td><td>Failure</td><td>:: Expected [aaaaaaa b aaaaaa] BUT RECEIVED [aaaaaaa d aaaaaa]. These values should be the same. <br>
+<br>
+<code>:: Expected [aaaaaaa b aaaaaa] BUT RECEIVED [aaaaaaa d aaaaaa]. These values should be the same.  at C:\LORDAdmin\mxunit\framework\Assert.cfc:164 at C:\LORDAdmin\mxunit\framework\Assert.cfc:255 at C:\LORDAdmin\mxunit\PluginDemoTests\CompareDialogTest.cfc:13 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="arrayCompareDifferencesComplex"></a><a href="mxunit/2_plugintests.html#arrayCompareDifferencesComplex">arrayCompareDifferencesComplex</a></td><td>Failure</td><td>Expected arrays to match but did not. See debug output for a visual display of the differences. Data mismatch. . :: Expected [row 5: 6 row 9, struct compare result: keys unique to struct 1: keynotins2 structure path [ "nested" ][ "somevalue" ]: 5 structure path [ "one" ]: one row 10: d] BUT RECEIVED [row 5: 5 row 9, struct compare result: keys unique to struct 2: keynotins1 structure path [ "nested" ][ "somevalue" ]: 50000 structure path [ "one" ]: ona row 10: e]. These values should be the same. <br>
+<br>
+<code>Expected arrays to match but did not. See debug output for a visual display of the differences. Data mismatch. . :: Expected [row 5: 6<br/>row 9, struct compare result: keys unique to struct 1: keynotins2<br/>structure path [ "nested" ][ "somevalue" ]: 5<br/>structure path [ "one" ]: one<br/>row 10: d] BUT RECEIVED [row 5: 5<br/>row 9, struct compare result: keys unique to struct 2: keynotins1<br/>structure path [ "nested" ][ "somevalue" ]: 50000<br/>structure path [ "one" ]: ona<br/>row 10: e]. These values should be the same.  at C:\LORDAdmin\mxunit\framework\Assert.cfc:164 at C:\LORDAdmin\mxunit\framework\Assert.cfc:255 at C:\LORDAdmin\mxunit\framework\Assert.cfc:346 at C:\LORDAdmin\mxunit\framework\Assert.cfc:242 at C:\LORDAdmin\mxunit\PluginDemoTests\CompareDialogTest.cfc:45 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="structCompareDifferences"></a><a href="mxunit/2_plugintests.html#structCompareDifferences">structCompareDifferences</a></td><td>Failure</td><td>Expected Structures to match but did not. See debug output for a visual display of the differences. Keys do not match.  :: Expected [keys unique to struct 1: keynotins2 structure path [ "nested" ][ "somevalue" ]: 5 structure path [ "one" ]: one] BUT RECEIVED [keys unique to struct 2: keynotins1 structure path [ "nested" ][ "somevalue" ]: 50000 structure path [ "one" ]: ona]. These values should be the same. <br>
+<br>
+<code>Expected Structures to match but did not. See debug output for a visual display of the differences. Keys do not match.  :: Expected [keys unique to struct 1: keynotins2<br/>structure path [ "nested" ][ "somevalue" ]: 5<br/>structure path [ "one" ]: one] BUT RECEIVED [keys unique to struct 2: keynotins1<br/>structure path [ "nested" ][ "somevalue" ]: 50000<br/>structure path [ "one" ]: ona]. These values should be the same.  at C:\LORDAdmin\mxunit\framework\Assert.cfc:164 at C:\LORDAdmin\mxunit\framework\Assert.cfc:255 at C:\LORDAdmin\mxunit\framework\Assert.cfc:333 at C:\LORDAdmin\mxunit\PluginDemoTests\CompareDialogTest.cfc:23 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.015</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="arrayCompareDifferences"></a><a href="mxunit/2_plugintests.html#arrayCompareDifferences">arrayCompareDifferences</a></td><td>Failure</td><td>Expected arrays to match but did not. See debug output for a visual display of the differences. Data mismatch.  Array 2 was longer than array 1. . :: Expected [row 5: 5] BUT RECEIVED [row 5: 6 array 2 had 3 additional row(s)]. These values should be the same. <br>
+<br>
+<code>Expected arrays to match but did not. See debug output for a visual display of the differences. Data mismatch.  Array 2 was longer than array 1. . :: Expected [row 5: 5] BUT RECEIVED [row 5: 6<br/>array 2 had 3 additional row(s)]. These values should be the same.  at C:\LORDAdmin\mxunit\framework\Assert.cfc:164 at C:\LORDAdmin\mxunit\framework\Assert.cfc:255 at C:\LORDAdmin\mxunit\framework\Assert.cfc:346 at C:\LORDAdmin\mxunit\framework\Assert.cfc:242 at C:\LORDAdmin\mxunit\PluginDemoTests\CompareDialogTest.cfc:30 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="arrayCompareDifferences2"></a><a href="mxunit/2_plugintests.html#arrayCompareDifferences2">arrayCompareDifferences2</a></td><td>Failure</td><td>Expected arrays to match but did not. See debug output for a visual display of the differences. Data mismatch.  Array 1 was longer than array 2. . :: Expected [row 5: 6 array 1 had 3 additional row(s)] BUT RECEIVED [row 5: 5]. These values should be the same. <br>
+<br>
+<code>Expected arrays to match but did not. See debug output for a visual display of the differences. Data mismatch.  Array 1 was longer than array 2. . :: Expected [row 5: 6<br/>array 1 had 3 additional row(s)] BUT RECEIVED [row 5: 5]. These values should be the same.  at C:\LORDAdmin\mxunit\framework\Assert.cfc:164 at C:\LORDAdmin\mxunit\framework\Assert.cfc:255 at C:\LORDAdmin\mxunit\framework\Assert.cfc:346 at C:\LORDAdmin\mxunit\framework\Assert.cfc:242 at C:\LORDAdmin\mxunit\PluginDemoTests\CompareDialogTest.cfc:37 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.016</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="thisShouldFail_BecauseExpectedExceptionIsNotThrown"></a><a href="mxunit/2_plugintests.html#thisShouldFail_BecauseExpectedExceptionIsNotThrown">thisShouldFail_BecauseExpectedExceptionIsNotThrown</a></td><td>Failure</td><td>hi mom!<br>
+<br>
+<code>hi mom! at C:\LORDAdmin\mxunit\PluginDemoTests\ExpectedExceptionTest.cfc:5 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testAssertTrueCFCUnitStyleFailure"></a><a href="mxunit/2_plugintests.html#testAssertTrueCFCUnitStyleFailure">testAssertTrueCFCUnitStyleFailure</a></td><td>Failure</td><td>1 does not equal 2<br>
+<br>
+<code>1 does not equal 2 at C:\LORDAdmin\mxunit\framework\Assert.cfc:143 at C:\LORDAdmin\mxunit\framework\Assert.cfc:362 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:121 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testFail"></a><a href="mxunit/2_plugintests.html#testFail">testFail</a></td><td>Failure</td><td>failing intentionally<br>
+<br>
+<code>failing intentionally at C:\LORDAdmin\mxunit\framework\Assert.cfc:143 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:64 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testNotEquals"></a><a href="mxunit/2_plugintests.html#testNotEquals">testNotEquals</a></td><td>Failure</td><td>:: Expected [hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny ] BUT RECEIVED [hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny ]. These values should be the same. <br>
+<br>
+<code>:: Expected [hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny ] BUT RECEIVED [hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny ]. These values should be the same.  at C:\LORDAdmin\mxunit\framework\Assert.cfc:164 at C:\LORDAdmin\mxunit\framework\Assert.cfc:255 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:68 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testAssertTrueCFUnitStyleFailure"></a><a href="mxunit/2_plugintests.html#testAssertTrueCFUnitStyleFailure">testAssertTrueCFUnitStyleFailure</a></td><td>Failure</td><td>false ain't true, sucka<br>
+<br>
+<code>false ain't true, sucka at C:\LORDAdmin\mxunit\framework\Assert.cfc:143 at C:\LORDAdmin\mxunit\framework\Assert.cfc:362 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:126 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testAssertTrueFailingWithoutMessage"></a><a href="mxunit/2_plugintests.html#testAssertTrueFailingWithoutMessage">testAssertTrueFailingWithoutMessage</a></td><td>Failure</td><td>mxunit test failure<br>
+<br>
+<code>mxunit test failure at C:\LORDAdmin\mxunit\framework\Assert.cfc:143 at C:\LORDAdmin\mxunit\framework\Assert.cfc:362 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:106 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testAssertTrueFailing"></a><a href="mxunit/2_plugintests.html#testAssertTrueFailing">testAssertTrueFailing</a></td><td>Failure</td><td>this should fail because one equals two is not true<br>
+<br>
+<code>this should fail because one equals two is not true at C:\LORDAdmin\mxunit\framework\Assert.cfc:143 at C:\LORDAdmin\mxunit\framework\Assert.cfc:362 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:102 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testFail"></a><a href="mxunit/2_plugintests.html#testFail">testFail</a></td><td>Failure</td><td>failing intentionally<br>
+<br>
+<code>failing intentionally at C:\LORDAdmin\mxunit\framework\Assert.cfc:143 at C:\LORDAdmin\mxunit\PluginDemoTests\SingleFailureTest.cfc:6 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+</table>
+</body>
+</html>

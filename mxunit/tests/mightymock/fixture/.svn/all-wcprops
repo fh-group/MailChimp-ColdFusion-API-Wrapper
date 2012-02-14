@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/mightymock/fixture
+END
+MyComponent.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/mightymock/fixture/MyComponent.cfc
+END
+MySpyObject.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/mightymock/fixture/MySpyObject.cfc
+END
+Mockery.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/mightymock/fixture/Mockery.cfc
+END
+AcceptStrictType.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/mightymock/fixture/AcceptStrictType.cfc
+END
+Dummy.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/mightymock/fixture/Dummy.cfc
+END
+ParentSpyObject.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/mightymock/fixture/ParentSpyObject.cfc
+END
+Helper.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/mightymock/fixture/Helper.cfc
+END
+Logger.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/mightymock/fixture/Logger.cfc
+END
+Mockify.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/mightymock/fixture/Mockify.cfc
+END
+FileDeleter.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/mightymock/fixture/FileDeleter.cfc
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests
+END
+run.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/run.cfm
+END
+fast-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/fast-build.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/build.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/run-me
+END
+test-with_hyphen.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/run-me/test-with_hyphen.cfc
+END
+test_with_underscore.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/bugs/run-me/test_with_underscore.cfc
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/samples
+END
+MyComponent.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/samples/MyComponent.cfc
+END
+MyComponentTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/samples/MyComponentTest.cfc
+END
+MyOtherComponentTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/samples/MyOtherComponentTest.cfc
+END

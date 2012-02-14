@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/buildprops
+END
+version.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/buildprops/version.properties
+END
+antrunner.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/buildprops/antrunner.properties
+END
+antrunner_sample.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/buildprops/antrunner_sample.properties
+END
+unames_example.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/buildprops/unames_example.properties
+END

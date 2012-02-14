@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/runner
+END
+RunnerUtils.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/runner/RunnerUtils.cfc
+END
+runner.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/runner/runner.js
+END
+HttpAntRunner.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/runner/HttpAntRunner.cfc
+END
+DirectoryTestSuite.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/runner/DirectoryTestSuite.cfc
+END
+HtmlRunner.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/runner/HtmlRunner.cfc
+END
+index.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/runner/index.cfm
+END

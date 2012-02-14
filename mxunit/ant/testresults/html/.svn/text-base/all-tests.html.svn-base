@@ -1,0 +1,1271 @@
+<html xmlns:lxslt="http://xml.apache.org/xslt" xmlns:stringutils="xalan://org.apache.tools.ant.util.StringUtils">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<title>MXUnit Test Results: All Tests</title>
+<link rel="stylesheet" type="text/css" title="Style" href="stylesheet.css">
+</head>
+<body onload="open('allclasses-frame.html','classListFrame')">
+<h1>MXUnit Test Results</h1>
+<table width="100%">
+<tr>
+<td align="left"></td><td align="right">Designed for use with <a href="http://www.junit.org/">JUnit</a> and <a href="http://ant.apache.org/">Ant</a>.</td>
+</tr>
+</table>
+<hr size="1">
+<h2>All Tests</h2>
+<table class="details" border="0" cellpadding="5" cellspacing="2" width="95%">
+<tr valign="top">
+<th>Class</th><th>Name</th><th>Status</th><th width="80%">Type</th><th nowrap>Time(s)</th>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAddHamcrestDecorator"></a><a href="mxunit/0_framework.html#testAddHamcrestDecorator">testAddHamcrestDecorator</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testaddAssertDecorators"></a><a href="mxunit/0_framework.html#testaddAssertDecorators">testaddAssertDecorators</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMXUnitExtensionsAdded"></a><a href="mxunit/0_framework.html#testMXUnitExtensionsAdded">testMXUnitExtensionsAdded</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAddFixtureDecorator"></a><a href="mxunit/0_framework.html#testAddFixtureDecorator">testAddFixtureDecorator</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAddAssertionExtensionTemplate"></a><a href="mxunit/0_framework.html#testAddAssertionExtensionTemplate">testAddAssertionExtensionTemplate</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertMethodChainAndPrint"></a><a href="mxunit/0_framework.html#testAssertMethodChainAndPrint">testAssertMethodChainAndPrint</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertNotSame"></a><a href="mxunit/0_framework.html#testAssertNotSame">testAssertNotSame</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertSame"></a><a href="mxunit/0_framework.html#testAssertSame">testAssertSame</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testIdentityHashCodes"></a><a href="mxunit/0_framework.html#testIdentityHashCodes">testIdentityHashCodes</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testHashEquals"></a><a href="mxunit/0_framework.html#testHashEquals">testHashEquals</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetHashCode"></a><a href="mxunit/0_framework.html#testGetHashCode">testGetHashCode</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertNotSameArray"></a><a href="mxunit/0_framework.html#testAssertNotSameArray">testAssertNotSameArray</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testThrowWrapper"></a><a href="mxunit/0_framework.html#testThrowWrapper">testThrowWrapper</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertSameArray"></a><a href="mxunit/0_framework.html#testAssertSameArray">testAssertSameArray</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testNormalizeArgumentsCFUnitTrue"></a><a href="mxunit/0_framework.html#testNormalizeArgumentsCFUnitTrue">testNormalizeArgumentsCFUnitTrue</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertEqualsCFUnitFailure"></a><a href="mxunit/0_framework.html#testAssertEqualsCFUnitFailure">testAssertEqualsCFUnitFailure</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testNormalizeArgumentsDefaultXMLDoc"></a><a href="mxunit/0_framework.html#testNormalizeArgumentsDefaultXMLDoc">testNormalizeArgumentsDefaultXMLDoc</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testFailNotEquals"></a><a href="mxunit/0_framework.html#testFailNotEquals">testFailNotEquals</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertEquals_fails_for_longer_expected_array"></a><a href="mxunit/0_framework.html#assertEquals_fails_for_longer_expected_array">assertEquals_fails_for_longer_expected_array</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertFailures"></a><a href="mxunit/0_framework.html#testAssertFailures">testAssertFailures</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertEqualsCaseShouldPassOnSameStrings"></a><a href="mxunit/0_framework.html#testAssertEqualsCaseShouldPassOnSameStrings">testAssertEqualsCaseShouldPassOnSameStrings</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertEqualsNumbersFailures"></a><a href="mxunit/0_framework.html#testAssertEqualsNumbersFailures">testAssertEqualsNumbersFailures</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="whenAssertEqualsPassesExpectedAndActualValuesShouldBeEmpty"></a><a href="mxunit/0_framework.html#whenAssertEqualsPassesExpectedAndActualValuesShouldBeEmpty">whenAssertEqualsPassesExpectedAndActualValuesShouldBeEmpty</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testNormalizeArgumentsCFUnitEquals"></a><a href="mxunit/0_framework.html#testNormalizeArgumentsCFUnitEquals">testNormalizeArgumentsCFUnitEquals</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertEquals_passes_for_array_with_matching_arrays"></a><a href="mxunit/0_framework.html#assertEquals_passes_for_array_with_matching_arrays">assertEquals_passes_for_array_with_matching_arrays</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testFailEqualsCFUnit"></a><a href="mxunit/0_framework.html#testFailEqualsCFUnit">testFailEqualsCFUnit</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertEqualsCaseShouldFailOnDifferentCasedStrings"></a><a href="mxunit/0_framework.html#testAssertEqualsCaseShouldFailOnDifferentCasedStrings">testAssertEqualsCaseShouldFailOnDifferentCasedStrings</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="whenAssertEqualsFailsForStringsExpectedAndActualValuesShouldBePopulated"></a><a href="mxunit/0_framework.html#whenAssertEqualsFailsForStringsExpectedAndActualValuesShouldBePopulated">whenAssertEqualsFailsForStringsExpectedAndActualValuesShouldBePopulated</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testFailEquals"></a><a href="mxunit/0_framework.html#testFailEquals">testFailEquals</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertQueryEquals_fails_for_mismatching_queries"></a><a href="mxunit/0_framework.html#assertQueryEquals_fails_for_mismatching_queries">assertQueryEquals_fails_for_mismatching_queries</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertEqualsStructsDeepComparison"></a><a href="mxunit/0_framework.html#testAssertEqualsStructsDeepComparison">testAssertEqualsStructsDeepComparison</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertEquals_passes_for_matching_arrays"></a><a href="mxunit/0_framework.html#assertEquals_passes_for_matching_arrays">assertEquals_passes_for_matching_arrays</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertStructEquals_fails_for_mismatching_simple_structs"></a><a href="mxunit/0_framework.html#assertStructEquals_fails_for_mismatching_simple_structs">assertStructEquals_fails_for_mismatching_simple_structs</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertEquals_passes_for_array_with_matching_structs"></a><a href="mxunit/0_framework.html#assertEquals_passes_for_array_with_matching_structs">assertEquals_passes_for_array_with_matching_structs</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertEqualsStringsFailures"></a><a href="mxunit/0_framework.html#testAssertEqualsStringsFailures">testAssertEqualsStringsFailures</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertTrue"></a><a href="mxunit/0_framework.html#testAssertTrue">testAssertTrue</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertStructEquals_succeeds_for_matching_nested_structs_with_different_key_case"></a><a href="mxunit/0_framework.html#assertStructEquals_succeeds_for_matching_nested_structs_with_different_key_case">assertStructEquals_succeeds_for_matching_nested_structs_with_different_key_case</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testNormalizeArgumentsDefaultEmptyArray"></a><a href="mxunit/0_framework.html#testNormalizeArgumentsDefaultEmptyArray">testNormalizeArgumentsDefaultEmptyArray</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertEquals_fails_for_array_with_mismatching_arrays"></a><a href="mxunit/0_framework.html#assertEquals_fails_for_array_with_mismatching_arrays">assertEquals_fails_for_array_with_mismatching_arrays</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertEquals_passes_for_array_with_matching_queries"></a><a href="mxunit/0_framework.html#assertEquals_passes_for_array_with_matching_queries">assertEquals_passes_for_array_with_matching_queries</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertEqualsNumbers"></a><a href="mxunit/0_framework.html#testAssertEqualsNumbers">testAssertEqualsNumbers</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertFalseFailure"></a><a href="mxunit/0_framework.html#testAssertFalseFailure">testAssertFalseFailure</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testDoubleHashError"></a><a href="mxunit/0_framework.html#testDoubleHashError">testDoubleHashError</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertEquals_fails_for_longer_actual_array"></a><a href="mxunit/0_framework.html#assertEquals_fails_for_longer_actual_array">assertEquals_fails_for_longer_actual_array</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertEquals_fails_for_array_with_mismatching_structs"></a><a href="mxunit/0_framework.html#assertEquals_fails_for_array_with_mismatching_structs">assertEquals_fails_for_array_with_mismatching_structs</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testFailure"></a><a href="mxunit/0_framework.html#testFailure">testFailure</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testNormalizeArgumentsDefaultTrue"></a><a href="mxunit/0_framework.html#testNormalizeArgumentsDefaultTrue">testNormalizeArgumentsDefaultTrue</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertEquals_fails_for_array_with_mismatching_queries"></a><a href="mxunit/0_framework.html#assertEquals_fails_for_array_with_mismatching_queries">assertEquals_fails_for_array_with_mismatching_queries</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertQueryEquals_succeeds_for_equal_queries"></a><a href="mxunit/0_framework.html#assertQueryEquals_succeeds_for_equal_queries">assertQueryEquals_succeeds_for_equal_queries</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertEqualsStructsFailures"></a><a href="mxunit/0_framework.html#testAssertEqualsStructsFailures">testAssertEqualsStructsFailures</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testFailNotEqualsCFUnit"></a><a href="mxunit/0_framework.html#testFailNotEqualsCFUnit">testFailNotEqualsCFUnit</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetStringValue"></a><a href="mxunit/0_framework.html#testGetStringValue">testGetStringValue</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssert"></a><a href="mxunit/0_framework.html#testAssert">testAssert</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="failNotEqualsShouldAllowInvalidXMLCharsInActual"></a><a href="mxunit/0_framework.html#failNotEqualsShouldAllowInvalidXMLCharsInActual">failNotEqualsShouldAllowInvalidXMLCharsInActual</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertEqualsStructs"></a><a href="mxunit/0_framework.html#testAssertEqualsStructs">testAssertEqualsStructs</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertStructEquals_succeeds_for_matching_nested_structs"></a><a href="mxunit/0_framework.html#assertStructEquals_succeeds_for_matching_nested_structs">assertStructEquals_succeeds_for_matching_nested_structs</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testNormalizeArgumentsDefaultEquals"></a><a href="mxunit/0_framework.html#testNormalizeArgumentsDefaultEquals">testNormalizeArgumentsDefaultEquals</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertFalse"></a><a href="mxunit/0_framework.html#testAssertFalse">testAssertFalse</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertEquals"></a><a href="mxunit/0_framework.html#testAssertEquals">testAssertEquals</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertEqualsStrings"></a><a href="mxunit/0_framework.html#testAssertEqualsStrings">testAssertEqualsStrings</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertStructEquals_fails_for_mismatching_nested_structs"></a><a href="mxunit/0_framework.html#assertStructEquals_fails_for_mismatching_nested_structs">assertStructEquals_fails_for_mismatching_nested_structs</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="mixedInPropertyIsOverwritten"></a><a href="mxunit/0_framework.html#mixedInPropertyIsOverwritten">mixedInPropertyIsOverwritten</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMixinAll"></a><a href="mxunit/0_framework.html#testMixinAll">testMixinAll</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMixinPropertyInstanceScope"></a><a href="mxunit/0_framework.html#testMixinPropertyInstanceScope">testMixinPropertyInstanceScope</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMixin"></a><a href="mxunit/0_framework.html#testMixin">testMixin</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testIsComponentVariableDefinedCallingFromMyself"></a><a href="mxunit/0_framework.html#testIsComponentVariableDefinedCallingFromMyself">testIsComponentVariableDefinedCallingFromMyself</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetComponentVariables"></a><a href="mxunit/0_framework.html#testGetComponentVariables">testGetComponentVariables</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMixinPropertyDefaultScopes"></a><a href="mxunit/0_framework.html#testMixinPropertyDefaultScopes">testMixinPropertyDefaultScopes</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testIsComponentVariableDefined"></a><a href="mxunit/0_framework.html#testIsComponentVariableDefined">testIsComponentVariableDefined</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMixinPrivate"></a><a href="mxunit/0_framework.html#testMixinPrivate">testMixinPrivate</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testCauseAFailure"></a><a href="mxunit/0_framework.html#testCauseAFailure">testCauseAFailure</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetComponentRoot"></a><a href="mxunit/0_framework.html#testGetComponentRoot">testGetComponentRoot</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetComponentRootWhenGetMetaDataNameIsComponentUtils"></a><a href="mxunit/0_framework.html#testGetComponentRootWhenGetMetaDataNameIsComponentUtils">testGetComponentRootWhenGetMetaDataNameIsComponentUtils</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testIsFrameworkTemplate"></a><a href="mxunit/0_framework.html#testIsFrameworkTemplate">testIsFrameworkTemplate</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetComponentRootWhenGetMetaDataNameIsNull"></a><a href="mxunit/0_framework.html#testGetComponentRootWhenGetMetaDataNameIsNull">testGetComponentRootWhenGetMetaDataNameIsNull</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetContextRootPath"></a><a href="mxunit/0_framework.html#testGetContextRootPath">testGetContextRootPath</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testHasJ2EEContext"></a><a href="mxunit/0_framework.html#testHasJ2EEContext">testHasJ2EEContext</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetInstallRoot"></a><a href="mxunit/0_framework.html#testGetInstallRoot">testGetInstallRoot</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testIsCfc"></a><a href="mxunit/0_framework.html#testIsCfc">testIsCfc</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getMockFactoryInfoReturnsExplicitFactorInfo"></a><a href="mxunit/0_framework.html#getMockFactoryInfoReturnsExplicitFactorInfo">getMockFactoryInfoReturnsExplicitFactorInfo</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetContextRootComponent"></a><a href="mxunit/0_framework.html#testGetContextRootComponent">testGetContextRootComponent</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetComponentRootWhenGetMetaDataNameIsDot"></a><a href="mxunit/0_framework.html#testGetComponentRootWhenGetMetaDataNameIsDot">testGetComponentRootWhenGetMetaDataNameIsDot</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetSeparator"></a><a href="mxunit/0_framework.html#testGetSeparator">testGetSeparator</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testThatGetComponentRootImplementsOverrideOfMxunitConfigXml"></a><a href="mxunit/0_framework.html#testThatGetComponentRootImplementsOverrideOfMxunitConfigXml">testThatGetComponentRootImplementsOverrideOfMxunitConfigXml</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getMockFactoryInfoReturnsMMInfoAsDefault"></a><a href="mxunit/0_framework.html#getMockFactoryInfoReturnsMMInfoAsDefault">getMockFactoryInfoReturnsMMInfoAsDefault</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetConfigElement"></a><a href="mxunit/0_framework.html#testGetConfigElement">testGetConfigElement</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetConfigElements"></a><a href="mxunit/0_framework.html#testGetConfigElements">testGetConfigElements</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetConfigElementValue"></a><a href="mxunit/0_framework.html#testGetConfigElementValue">testGetConfigElementValue</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetConfigElementAttributeCollection"></a><a href="mxunit/0_framework.html#testGetConfigElementAttributeCollection">testGetConfigElementAttributeCollection</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetVersion"></a><a href="mxunit/0_framework.html#testGetVersion">testGetVersion</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="readCSV_Should_ReturnQueryWithHeaderRow_WhenHeaderExists"></a><a href="mxunit/0_framework.html#readCSV_Should_ReturnQueryWithHeaderRow_WhenHeaderExists">readCSV_Should_ReturnQueryWithHeaderRow_WhenHeaderExists</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="readCSV_Should_ReturnQueryWithDerivedHeaderRow_WhenNoHeader"></a><a href="mxunit/0_framework.html#readCSV_Should_ReturnQueryWithDerivedHeaderRow_WhenNoHeader">readCSV_Should_ReturnQueryWithDerivedHeaderRow_WhenNoHeader</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="readCSVToArray_Should_Return2DArray"></a><a href="mxunit/0_framework.html#readCSVToArray_Should_Return2DArray">readCSVToArray_Should_Return2DArray</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="CSVToArray_Should_Create2DArrayForDataProvider"></a><a href="mxunit/0_framework.html#CSVToArray_Should_Create2DArrayForDataProvider">CSVToArray_Should_Create2DArrayForDataProvider</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="poiUtilityShouldBeAccessibleForAllTests"></a><a href="mxunit/0_framework.html#poiUtilityShouldBeAccessibleForAllTests">poiUtilityShouldBeAccessibleForAllTests</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="ExcelToArray_Should_Create2DArrayForDataProvider"></a><a href="mxunit/0_framework.html#ExcelToArray_Should_Create2DArrayForDataProvider">ExcelToArray_Should_Create2DArrayForDataProvider</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="dataProviderShouldRunExcelFileAsQuery"></a><a href="mxunit/0_framework.html#dataProviderShouldRunExcelFileAsQuery">dataProviderShouldRunExcelFileAsQuery</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="shouldIterateOverQueryAndExecCUTDouble"></a><a href="mxunit/0_framework.html#shouldIterateOverQueryAndExecCUTDouble">shouldIterateOverQueryAndExecCUTDouble</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="dataproviderShouldAccept2DArrays"></a><a href="mxunit/0_framework.html#dataproviderShouldAccept2DArrays">dataproviderShouldAccept2DArrays</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="invalidReferenceShouldThrowException"></a><a href="mxunit/0_framework.html#invalidReferenceShouldThrowException">invalidReferenceShouldThrowException</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="dataproviderShouldIterateOverStringArray"></a><a href="mxunit/0_framework.html#dataproviderShouldIterateOverStringArray">dataproviderShouldIterateOverStringArray</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="dataproviderShouldAcceptArrays"></a><a href="mxunit/0_framework.html#dataproviderShouldAcceptArrays">dataproviderShouldAcceptArrays</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="dataproviderShouldAcceptSimpleValueForNumericLoops"></a><a href="mxunit/0_framework.html#dataproviderShouldAcceptSimpleValueForNumericLoops">dataproviderShouldAcceptSimpleValueForNumericLoops</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="dataproviderShouldAcceptStructs"></a><a href="mxunit/0_framework.html#dataproviderShouldAcceptStructs">dataproviderShouldAcceptStructs</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="threaLocalTest"></a><a href="mxunit/0_framework.html#threaLocalTest">threaLocalTest</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="dataProviderShouldRunCSVFileAsQuery"></a><a href="mxunit/0_framework.html#dataProviderShouldRunCSVFileAsQuery">dataProviderShouldRunCSVFileAsQuery</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="peepQueryMD"></a><a href="mxunit/0_framework.html#peepQueryMD">peepQueryMD</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="scopePeeping"></a><a href="mxunit/0_framework.html#scopePeeping">scopePeeping</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="methodPeep"></a><a href="mxunit/0_framework.html#methodPeep">methodPeep</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="dataproviderShouldIterateOverList"></a><a href="mxunit/0_framework.html#dataproviderShouldIterateOverList">dataproviderShouldIterateOverList</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="dataproviderShouldAcceptSimpleNumericVariablesForLoops"></a><a href="mxunit/0_framework.html#dataproviderShouldAcceptSimpleNumericVariablesForLoops">dataproviderShouldAcceptSimpleNumericVariablesForLoops</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="expectedExceptionTestUsingScriptMethodAndSingleName"></a><a href="mxunit/0_framework.html#expectedExceptionTestUsingScriptMethodAndSingleName">expectedExceptionTestUsingScriptMethodAndSingleName</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="expectedMXUnitFailureShouldNotBeThrownAfterCaughtCustomException"></a><a href="mxunit/0_framework.html#expectedMXUnitFailureShouldNotBeThrownAfterCaughtCustomException">expectedMXUnitFailureShouldNotBeThrownAfterCaughtCustomException</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="suiteOfExpectedExceptionsShouldReportFailures"></a><a href="mxunit/0_framework.html#suiteOfExpectedExceptionsShouldReportFailures">suiteOfExpectedExceptionsShouldReportFailures</a></td><td>Success</td><td></td><td>0.110</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testThrowExceptionWithPackageNotationUsingAnnotation"></a><a href="mxunit/0_framework.html#testThrowExceptionWithPackageNotationUsingAnnotation">testThrowExceptionWithPackageNotationUsingAnnotation</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testThrowSingleEntryNameExceptionUsingAnnotation"></a><a href="mxunit/0_framework.html#testThrowSingleEntryNameExceptionUsingAnnotation">testThrowSingleEntryNameExceptionUsingAnnotation</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="expectedSQLExceptionShouldBeCaught"></a><a href="mxunit/0_framework.html#expectedSQLExceptionShouldBeCaught">expectedSQLExceptionShouldBeCaught</a></td><td>Success</td><td></td><td>0.171</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="oldSkoolBasicError"></a><a href="mxunit/0_framework.html#oldSkoolBasicError">oldSkoolBasicError</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="expectedExceptionTestUsingScriptMethodAndPackageNotation"></a><a href="mxunit/0_framework.html#expectedExceptionTestUsingScriptMethodAndPackageNotation">expectedExceptionTestUsingScriptMethodAndPackageNotation</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="expectedExpressionExceptionShouldBeCaught"></a><a href="mxunit/0_framework.html#expectedExpressionExceptionShouldBeCaught">expectedExpressionExceptionShouldBeCaught</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="makeSureFailureHappensAndOldStyleWorks"></a><a href="mxunit/0_framework.html#makeSureFailureHappensAndOldStyleWorks">makeSureFailureHappensAndOldStyleWorks</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="listOfExpectedExceptionsShouldBeCaught"></a><a href="mxunit/0_framework.html#listOfExpectedExceptionsShouldBeCaught">listOfExpectedExceptionsShouldBeCaught</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="shouldCatchMissingArgumentException"></a><a href="mxunit/0_framework.html#shouldCatchMissingArgumentException">shouldCatchMissingArgumentException</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="expectedExceptionShouldSetPropertyInTestCase"></a><a href="mxunit/0_framework.html#expectedExceptionShouldSetPropertyInTestCase">expectedExceptionShouldSetPropertyInTestCase</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testSomethingElse"></a><a href="mxunit/0_framework.html#testSomethingElse">testSomethingElse</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testSomething"></a><a href="mxunit/0_framework.html#testSomething">testSomething</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testSomethingElse2"></a><a href="mxunit/0_framework.html#testSomethingElse2">testSomethingElse2</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testIsEqualTo"></a><a href="mxunit/0_framework.html#testIsEqualTo">testIsEqualTo</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testContainsTheString"></a><a href="mxunit/0_framework.html#testContainsTheString">testContainsTheString</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testContainsAtLeastOneScript"></a><a href="mxunit/0_framework.html#testContainsAtLeastOneScript">testContainsAtLeastOneScript</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testContainsAtLeastOneStylesheet"></a><a href="mxunit/0_framework.html#testContainsAtLeastOneStylesheet">testContainsAtLeastOneStylesheet</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testContainsTitleTag"></a><a href="mxunit/0_framework.html#testContainsTitleTag">testContainsTitleTag</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="notinstalledColdMockShouldThrowNotInstalledException2"></a><a href="mxunit/0_framework.html#notinstalledColdMockShouldThrowNotInstalledException2">notinstalledColdMockShouldThrowNotInstalledException2</a></td><td>Success</td><td></td><td>0.390</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getMockFactoryIsInvokedOnce"></a><a href="mxunit/0_framework.html#getMockFactoryIsInvokedOnce">getMockFactoryIsInvokedOnce</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getMockFactoryReturnsMightyMockByDefault"></a><a href="mxunit/0_framework.html#getMockFactoryReturnsMightyMockByDefault">getMockFactoryReturnsMightyMockByDefault</a></td><td>Success</td><td></td><td>0.063</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="notinstalledMockFrameworkShouldThrowNotInstalledException"></a><a href="mxunit/0_framework.html#notinstalledMockFrameworkShouldThrowNotInstalledException">notinstalledMockFrameworkShouldThrowNotInstalledException</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="mockWithActualObjectShouldCreateTypeSafeMightyMockObject"></a><a href="mxunit/0_framework.html#mockWithActualObjectShouldCreateTypeSafeMightyMockObject">mockWithActualObjectShouldCreateTypeSafeMightyMockObject</a></td><td>Success</td><td></td><td>0.062</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="mockExplicitFastShouldReturnFastMightyMockObject"></a><a href="mxunit/0_framework.html#mockExplicitFastShouldReturnFastMightyMockObject">mockExplicitFastShouldReturnFastMightyMockObject</a></td><td>Success</td><td></td><td>0.063</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="mockNoNameShouldReturnMightyMockObject"></a><a href="mxunit/0_framework.html#mockNoNameShouldReturnMightyMockObject">mockNoNameShouldReturnMightyMockObject</a></td><td>Success</td><td></td><td>0.062</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="notinstalledMockBoxShouldThrowNotInstalledException"></a><a href="mxunit/0_framework.html#notinstalledMockBoxShouldThrowNotInstalledException">notinstalledMockBoxShouldThrowNotInstalledException</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="mockWithTypeSafeShouldCreateTypeSafeMightyMockObject"></a><a href="mxunit/0_framework.html#mockWithTypeSafeShouldCreateTypeSafeMightyMockObject">mockWithTypeSafeShouldCreateTypeSafeMightyMockObject</a></td><td>Success</td><td></td><td>0.172</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="mockWithPartialShouldThrow"></a><a href="mxunit/0_framework.html#mockWithPartialShouldThrow">mockWithPartialShouldThrow</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="$getMM"></a><a href="mxunit/0_framework.html#$getMM">$getMM</a></td><td>Success</td><td></td><td>0.062</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="notregisteredMockFrameworkShouldThrowNotResgiteredException"></a><a href="mxunit/0_framework.html#notregisteredMockFrameworkShouldThrowNotResgiteredException">notregisteredMockFrameworkShouldThrowNotResgiteredException</a></td><td>Success</td><td></td><td>0.063</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="notinstalledMockBoxShouldThrowNotInstalledException2"></a><a href="mxunit/0_framework.html#notinstalledMockBoxShouldThrowNotInstalledException2">notinstalledMockBoxShouldThrowNotInstalledException2</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="emptyConstructorShouldGenerateMM"></a><a href="mxunit/0_framework.html#emptyConstructorShouldGenerateMM">emptyConstructorShouldGenerateMM</a></td><td>Success</td><td></td><td>0.062</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="mockWithNameShouldReturnNamedMightyMockObject"></a><a href="mxunit/0_framework.html#mockWithNameShouldReturnNamedMightyMockObject">mockWithNameShouldReturnNamedMightyMockObject</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertIsTypeOf"></a><a href="mxunit/0_framework.html#testAssertIsTypeOf">testAssertIsTypeOf</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertIsXMLDoc"></a><a href="mxunit/0_framework.html#testAssertIsXMLDoc">testAssertIsXMLDoc</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertIsExactTypePassesForExactType"></a><a href="mxunit/0_framework.html#assertIsExactTypePassesForExactType">assertIsExactTypePassesForExactType</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertIsEmptyStruct"></a><a href="mxunit/0_framework.html#testAssertIsEmptyStruct">testAssertIsEmptyStruct</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertIsTypeOfFailsForBogusType"></a><a href="mxunit/0_framework.html#assertIsTypeOfFailsForBogusType">assertIsTypeOfFailsForBogusType</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertEqualsWithTolerance"></a><a href="mxunit/0_framework.html#testAssertEqualsWithTolerance">testAssertEqualsWithTolerance</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertIsQuery"></a><a href="mxunit/0_framework.html#testAssertIsQuery">testAssertIsQuery</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertIsArray"></a><a href="mxunit/0_framework.html#testAssertIsArray">testAssertIsArray</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertIsTypeOfPassesForCompleteAncestry"></a><a href="mxunit/0_framework.html#assertIsTypeOfPassesForCompleteAncestry">assertIsTypeOfPassesForCompleteAncestry</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertIsExactTypeOfFailsForSuperclass"></a><a href="mxunit/0_framework.html#assertIsExactTypeOfFailsForSuperclass">assertIsExactTypeOfFailsForSuperclass</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertIsDefined"></a><a href="mxunit/0_framework.html#testAssertIsDefined">testAssertIsDefined</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertIsEmpty"></a><a href="mxunit/0_framework.html#testAssertIsEmpty">testAssertIsEmpty</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertIsStruct"></a><a href="mxunit/0_framework.html#testAssertIsStruct">testAssertIsStruct</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertIsEmptyQuery"></a><a href="mxunit/0_framework.html#testAssertIsEmptyQuery">testAssertIsEmptyQuery</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertIsTypeOfFailsForIncorrectType"></a><a href="mxunit/0_framework.html#assertIsTypeOfFailsForIncorrectType">assertIsTypeOfFailsForIncorrectType</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="assertIsTypeOfPassesForInterfaces"></a><a href="mxunit/0_framework.html#assertIsTypeOfPassesForInterfaces">assertIsTypeOfPassesForInterfaces</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAssertIsEmptyArray"></a><a href="mxunit/0_framework.html#testAssertIsEmptyArray">testAssertIsEmptyArray</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicNonExistentMethod"></a><a href="mxunit/0_framework.html#testMakePublicNonExistentMethod">testMakePublicNonExistentMethod</a></td><td>Success</td><td></td><td>0.046</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicNoArgMethod"></a><a href="mxunit/0_framework.html#testMakePublicNoArgMethod">testMakePublicNoArgMethod</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicArray"></a><a href="mxunit/0_framework.html#testMakePublicArray">testMakePublicArray</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicArray2"></a><a href="mxunit/0_framework.html#testMakePublicArray2">testMakePublicArray2</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicNamedArgsAndNamedPublicMethod"></a><a href="mxunit/0_framework.html#testMakePublicNamedArgsAndNamedPublicMethod">testMakePublicNamedArgsAndNamedPublicMethod</a></td><td>Success</td><td></td><td>0.032</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicAllArgsPassed"></a><a href="mxunit/0_framework.html#testMakePublicAllArgsPassed">testMakePublicAllArgsPassed</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicObjectWithInit"></a><a href="mxunit/0_framework.html#testMakePublicObjectWithInit">testMakePublicObjectWithInit</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicObjectNoArg"></a><a href="mxunit/0_framework.html#testMakePublicObjectNoArg">testMakePublicObjectNoArg</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicObjectVoid"></a><a href="mxunit/0_framework.html#testMakePublicObjectVoid">testMakePublicObjectVoid</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicArgDefault"></a><a href="mxunit/0_framework.html#testMakePublicArgDefault">testMakePublicArgDefault</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicSuperClassMethod"></a><a href="mxunit/0_framework.html#testMakePublicSuperClassMethod">testMakePublicSuperClassMethod</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testSanity"></a><a href="mxunit/0_framework.html#testSanity">testSanity</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicSuperClassPackageMethod"></a><a href="mxunit/0_framework.html#testMakePublicSuperClassPackageMethod">testMakePublicSuperClassPackageMethod</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicNonNamedArgs"></a><a href="mxunit/0_framework.html#testMakePublicNonNamedArgs">testMakePublicNonNamedArgs</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicRequiredArgOnly"></a><a href="mxunit/0_framework.html#testMakePublicRequiredArgOnly">testMakePublicRequiredArgOnly</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicVoid"></a><a href="mxunit/0_framework.html#testMakePublicVoid">testMakePublicVoid</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicNoThirdArg"></a><a href="mxunit/0_framework.html#testMakePublicNoThirdArg">testMakePublicNoThirdArg</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicNoReturnType"></a><a href="mxunit/0_framework.html#testMakePublicNoReturnType">testMakePublicNoReturnType</a></td><td>Success</td><td></td><td>0.032</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicObject"></a><a href="mxunit/0_framework.html#testMakePublicObject">testMakePublicObject</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicSuperClassMethodWithSubclassWithNoFunctions"></a><a href="mxunit/0_framework.html#testMakePublicSuperClassMethodWithSubclassWithNoFunctions">testMakePublicSuperClassMethodWithSubclassWithNoFunctions</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicMissingRequiredArg"></a><a href="mxunit/0_framework.html#testMakePublicMissingRequiredArg">testMakePublicMissingRequiredArg</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetQueryResults"></a><a href="mxunit/0_framework.html#testGetQueryResults">testGetQueryResults</a></td><td>Success</td><td></td><td>0.094</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMetaData"></a><a href="mxunit/0_framework.html#testMetaData">testMetaData</a></td><td>Success</td><td></td><td>0.046</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testPurgeSuitePool"></a><a href="mxunit/0_framework.html#testPurgeSuitePool">testPurgeSuitePool</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testPurgeStaleTests"></a><a href="mxunit/0_framework.html#testPurgeStaleTests">testPurgeStaleTests</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testEndTestRun"></a><a href="mxunit/0_framework.html#testEndTestRun">testEndTestRun</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testStartTestRun"></a><a href="mxunit/0_framework.html#testStartTestRun">testStartTestRun</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetObjectNotInCache"></a><a href="mxunit/0_framework.html#testGetObjectNotInCache">testGetObjectNotInCache</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetObjectWhenCachePurged"></a><a href="mxunit/0_framework.html#testGetObjectWhenCachePurged">testGetObjectWhenCachePurged</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetComponentMethods"></a><a href="mxunit/0_framework.html#testGetComponentMethods">testGetComponentMethods</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetServerType"></a><a href="mxunit/0_framework.html#testGetServerType">testGetServerType</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testPing"></a><a href="mxunit/0_framework.html#testPing">testPing</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getFrameworkVersionShouldReturnVersion"></a><a href="mxunit/0_framework.html#getFrameworkVersionShouldReturnVersion">getFrameworkVersionShouldReturnVersion</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testExecuteTestCaseWithComplexErrorTypeError"></a><a href="mxunit/0_framework.html#testExecuteTestCaseWithComplexErrorTypeError">testExecuteTestCaseWithComplexErrorTypeError</a></td><td>Success</td><td></td><td>0.625</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getFrameworkDateShouldReturnDateAndNotTime"></a><a href="mxunit/0_framework.html#getFrameworkDateShouldReturnDateAndNotTime">getFrameworkDateShouldReturnDateAndNotTime</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testExecuteTestCase"></a><a href="mxunit/0_framework.html#testExecuteTestCase">testExecuteTestCase</a></td><td>Success</td><td></td><td>0.156</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testExecuteTestCaseWithFailure"></a><a href="mxunit/0_framework.html#testExecuteTestCaseWithFailure">testExecuteTestCaseWithFailure</a></td><td>Success</td><td></td><td>0.110</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="startTestRunShouldReturnKey"></a><a href="mxunit/0_framework.html#startTestRunShouldReturnKey">startTestRunShouldReturnKey</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testTagSoup"></a><a href="mxunit/0_framework.html#testTagSoup">testTagSoup</a></td><td>Success</td><td></td><td>0.484</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testThatCallToSuperReturnsCorrectString"></a><a href="mxunit/0_framework.html#testThatCallToSuperReturnsCorrectString">testThatCallToSuperReturnsCorrectString</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getOverwrittenAnnotationReturnsValueFromTestCaseUsingJustName"></a><a href="mxunit/0_framework.html#getOverwrittenAnnotationReturnsValueFromTestCaseUsingJustName">getOverwrittenAnnotationReturnsValueFromTestCaseUsingJustName</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetRunnableMethodsSimple"></a><a href="mxunit/0_framework.html#testGetRunnableMethodsSimple">testGetRunnableMethodsSimple</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getAnnotationReturnsValueFromTestCaseUsingMxunitNamespace"></a><a href="mxunit/0_framework.html#getAnnotationReturnsValueFromTestCaseUsingMxunitNamespace">getAnnotationReturnsValueFromTestCaseUsingMxunitNamespace</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testThatThisExtendsTestCaseTest"></a><a href="mxunit/0_framework.html#testThatThisExtendsTestCaseTest">testThatThisExtendsTestCaseTest</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getAnnotationReturnsValueFromTestCaseUsingJustName"></a><a href="mxunit/0_framework.html#getAnnotationReturnsValueFromTestCaseUsingJustName">getAnnotationReturnsValueFromTestCaseUsingJustName</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetRunnableMethodsInheritance"></a><a href="mxunit/0_framework.html#testGetRunnableMethodsInheritance">testGetRunnableMethodsInheritance</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="cfthreadsInTestAreNotAcceptableTests"></a><a href="mxunit/0_framework.html#cfthreadsInTestAreNotAcceptableTests">cfthreadsInTestAreNotAcceptableTests</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getSomeValue"></a><a href="mxunit/0_framework.html#getSomeValue">getSomeValue</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testInjectMethodPassthroughSanityCheck"></a><a href="mxunit/0_framework.html#testInjectMethodPassthroughSanityCheck">testInjectMethodPassthroughSanityCheck</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="setUpAndTearDownAreNotAcceptableTests"></a><a href="mxunit/0_framework.html#setUpAndTearDownAreNotAcceptableTests">setUpAndTearDownAreNotAcceptableTests</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testInjectMethodPassthrough"></a><a href="mxunit/0_framework.html#testInjectMethodPassthrough">testInjectMethodPassthrough</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getAnnotationReturnsValueFromTestCaseUsingMxunitNamespace"></a><a href="mxunit/0_framework.html#getAnnotationReturnsValueFromTestCaseUsingMxunitNamespace">getAnnotationReturnsValueFromTestCaseUsingMxunitNamespace</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testInjectMethodPassthroughOverwriteExistingButDifferentName"></a><a href="mxunit/0_framework.html#testInjectMethodPassthroughOverwriteExistingButDifferentName">testInjectMethodPassthroughOverwriteExistingButDifferentName</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="dataproviderShouldAllowMXUnitNamespacedAnnotation"></a><a href="mxunit/0_framework.html#dataproviderShouldAllowMXUnitNamespacedAnnotation">dataproviderShouldAllowMXUnitNamespacedAnnotation</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="$invokeBeforeTestsShouldSetSimpleValue"></a><a href="mxunit/0_framework.html#$invokeBeforeTestsShouldSetSimpleValue">$invokeBeforeTestsShouldSetSimpleValue</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetRunnableMethodsHyphenInName"></a><a href="mxunit/0_framework.html#testGetRunnableMethodsHyphenInName">testGetRunnableMethodsHyphenInName</a></td><td>Success</td><td></td><td>0.032</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testWithJustNameAnnotation"></a><a href="mxunit/0_framework.html#testWithJustNameAnnotation">testWithJustNameAnnotation</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="expectedExceptionWithMXUnitNamespaceShouldWork"></a><a href="mxunit/0_framework.html#expectedExceptionWithMXUnitNamespaceShouldWork">expectedExceptionWithMXUnitNamespaceShouldWork</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicPassthroughSanityCheck"></a><a href="mxunit/0_framework.html#testMakePublicPassthroughSanityCheck">testMakePublicPassthroughSanityCheck</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getAnnotationReturnsValueUsingJustName"></a><a href="mxunit/0_framework.html#getAnnotationReturnsValueUsingJustName">getAnnotationReturnsValueUsingJustName</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getAnnotationReturnsValueUsingMxunitNamespace"></a><a href="mxunit/0_framework.html#getAnnotationReturnsValueUsingMxunitNamespace">getAnnotationReturnsValueUsingMxunitNamespace</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testInjectPropertyWorksForNonExistentMethods"></a><a href="mxunit/0_framework.html#testInjectPropertyWorksForNonExistentMethods">testInjectPropertyWorksForNonExistentMethods</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testInjectPropertyWorksForMethodsCalledIndirectly"></a><a href="mxunit/0_framework.html#testInjectPropertyWorksForMethodsCalledIndirectly">testInjectPropertyWorksForMethodsCalledIndirectly</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testInjectPropertyWithScope"></a><a href="mxunit/0_framework.html#testInjectPropertyWithScope">testInjectPropertyWithScope</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testWithNoAnnotation"></a><a href="mxunit/0_framework.html#testWithNoAnnotation">testWithNoAnnotation</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testInjectPropertyWorksForMethodsCalledDirectly"></a><a href="mxunit/0_framework.html#testInjectPropertyWorksForMethodsCalledDirectly">testInjectPropertyWorksForMethodsCalledDirectly</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="publicFunctionsAreAcceptableTests"></a><a href="mxunit/0_framework.html#publicFunctionsAreAcceptableTests">publicFunctionsAreAcceptableTests</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testInjectMethodPassthroughOverwriteExisting"></a><a href="mxunit/0_framework.html#testInjectMethodPassthroughOverwriteExisting">testInjectMethodPassthroughOverwriteExisting</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testRestoreMethod"></a><a href="mxunit/0_framework.html#testRestoreMethod">testRestoreMethod</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetRunnableMethodsSimple"></a><a href="mxunit/0_framework.html#testGetRunnableMethodsSimple">testGetRunnableMethodsSimple</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getAnnotationReturnsDefaultValueIfNoAnnotationFound"></a><a href="mxunit/0_framework.html#getAnnotationReturnsDefaultValueIfNoAnnotationFound">getAnnotationReturnsDefaultValueIfNoAnnotationFound</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="falseTestAttribute_IsNotAcceptableTest"></a><a href="mxunit/0_framework.html#falseTestAttribute_IsNotAcceptableTest">falseTestAttribute_IsNotAcceptableTest</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="expectedExceptionWithJustNameShouldWork"></a><a href="mxunit/0_framework.html#expectedExceptionWithJustNameShouldWork">expectedExceptionWithJustNameShouldWork</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getAnnotationOnNonExistentMethodThrowsExectedException"></a><a href="mxunit/0_framework.html#getAnnotationOnNonExistentMethodThrowsExectedException">getAnnotationOnNonExistentMethodThrowsExectedException</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="privateAndPackageAreNotAcceptableTests"></a><a href="mxunit/0_framework.html#privateAndPackageAreNotAcceptableTests">privateAndPackageAreNotAcceptableTests</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getAnnotationReturnsValueFromTestCaseUsingJustName"></a><a href="mxunit/0_framework.html#getAnnotationReturnsValueFromTestCaseUsingJustName">getAnnotationReturnsValueFromTestCaseUsingJustName</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testInjectPropertyAlreadyExists"></a><a href="mxunit/0_framework.html#testInjectPropertyAlreadyExists">testInjectPropertyAlreadyExists</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testMakePublicPassthrough"></a><a href="mxunit/0_framework.html#testMakePublicPassthrough">testMakePublicPassthrough</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="dataproviderShouldAllowNameOnlyAnnotation"></a><a href="mxunit/0_framework.html#dataproviderShouldAllowNameOnlyAnnotation">dataproviderShouldAllowNameOnlyAnnotation</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testWithMxunitNamespaceAnnotation"></a><a href="mxunit/0_framework.html#testWithMxunitNamespaceAnnotation">testWithMxunitNamespaceAnnotation</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testDecoratorWrappingTest"></a><a href="mxunit/0_framework.html#testDecoratorWrappingTest">testDecoratorWrappingTest</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="someTest"></a><a href="mxunit/0_framework.html#someTest">someTest</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testSetPackage"></a><a href="mxunit/0_framework.html#testSetPackage">testSetPackage</a></td><td>Success</td><td></td><td>0.093</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testEndTest"></a><a href="mxunit/0_framework.html#testEndTest">testEndTest</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAddError"></a><a href="mxunit/0_framework.html#testAddError">testAddError</a></td><td>Success</td><td></td><td>0.078</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetResults"></a><a href="mxunit/0_framework.html#testGetResults">testGetResults</a></td><td>Success</td><td></td><td>0.032</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetPackage"></a><a href="mxunit/0_framework.html#testGetPackage">testGetPackage</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testConstructTagContextElements"></a><a href="mxunit/0_framework.html#testConstructTagContextElements">testConstructTagContextElements</a></td><td>Success</td><td></td><td>0.140</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="normalizeQueryStringShouldIgnoreComplexObjects"></a><a href="mxunit/0_framework.html#normalizeQueryStringShouldIgnoreComplexObjects">normalizeQueryStringShouldIgnoreComplexObjects</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAddTrace"></a><a href="mxunit/0_framework.html#testAddTrace">testAddTrace</a></td><td>Success</td><td></td><td>0.063</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetFailures"></a><a href="mxunit/0_framework.html#testGetFailures">testGetFailures</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetResultsAsStruct"></a><a href="mxunit/0_framework.html#testGetResultsAsStruct">testGetResultsAsStruct</a></td><td>Success</td><td></td><td>0.187</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAddContent"></a><a href="mxunit/0_framework.html#testAddContent">testAddContent</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAddSuccess"></a><a href="mxunit/0_framework.html#testAddSuccess">testAddSuccess</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetQueryResults"></a><a href="mxunit/0_framework.html#testGetQueryResults">testGetQueryResults</a></td><td>Success</td><td></td><td>0.079</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetResultsOutput"></a><a href="mxunit/0_framework.html#testGetResultsOutput">testGetResultsOutput</a></td><td>Success</td><td></td><td>0.046</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetInstallRoot"></a><a href="mxunit/0_framework.html#testGetInstallRoot">testGetInstallRoot</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testNormalizeQueryString"></a><a href="mxunit/0_framework.html#testNormalizeQueryString">testNormalizeQueryString</a></td><td>Success</td><td></td><td>0.032</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testStartTest"></a><a href="mxunit/0_framework.html#testStartTest">testStartTest</a></td><td>Success</td><td></td><td>0.046</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetSuccesses"></a><a href="mxunit/0_framework.html#testGetSuccesses">testGetSuccesses</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetResultsAsStructMultipleComponents"></a><a href="mxunit/0_framework.html#testGetResultsAsStructMultipleComponents">testGetResultsAsStructMultipleComponents</a></td><td>Success</td><td></td><td>0.219</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testCloseResults"></a><a href="mxunit/0_framework.html#testCloseResults">testCloseResults</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testTestResult"></a><a href="mxunit/0_framework.html#testTestResult">testTestResult</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testSetDebug"></a><a href="mxunit/0_framework.html#testSetDebug">testSetDebug</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAddProcessingTime"></a><a href="mxunit/0_framework.html#testAddProcessingTime">testAddProcessingTime</a></td><td>Success</td><td></td><td>0.046</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetDebug"></a><a href="mxunit/0_framework.html#testGetDebug">testGetDebug</a></td><td>Success</td><td></td><td>0.032</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAddFailure"></a><a href="mxunit/0_framework.html#testAddFailure">testAddFailure</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAdd"></a><a href="mxunit/0_framework.html#testAdd">testAdd</a></td><td>Success</td><td></td><td>0.094</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="settingMockingFrameworkInTestSuiteUsesThatFramework"></a><a href="mxunit/0_framework.html#settingMockingFrameworkInTestSuiteUsesThatFramework">settingMockingFrameworkInTestSuiteUsesThatFramework</a></td><td>Success</td><td></td><td>0.062</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testGetMapReturnsMap"></a><a href="mxunit/0_framework.html#testGetMapReturnsMap">testGetMapReturnsMap</a></td><td>Success</td><td></td><td>0.094</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testRunSuiteRemote"></a><a href="mxunit/0_framework.html#testRunSuiteRemote">testRunSuiteRemote</a></td><td>Success</td><td></td><td>0.078</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testAddOneTestMethod"></a><a href="mxunit/0_framework.html#testAddOneTestMethod">testAddOneTestMethod</a></td><td>Success</td><td></td><td>0.032</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testRun"></a><a href="mxunit/0_framework.html#testRun">testRun</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testTest"></a><a href="mxunit/0_framework.html#testTest">testTest</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="getVersionInfoShouldReturnStructWithBuildNumberAndDate"></a><a href="mxunit/0_framework.html#getVersionInfoShouldReturnStructWithBuildNumberAndDate">getVersionInfoShouldReturnStructWithBuildNumberAndDate</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testSSLUrl"></a><a href="mxunit/0_framework.html#testSSLUrl">testSSLUrl</a></td><td>Success</td><td></td><td>1.171</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testFindTitleInUrl"></a><a href="mxunit/0_framework.html#testFindTitleInUrl">testFindTitleInUrl</a></td><td>Success</td><td></td><td>1.032</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testFindNode1_WithPreBuiltXMLObject"></a><a href="mxunit/0_framework.html#testFindNode1_WithPreBuiltXMLObject">testFindNode1_WithPreBuiltXMLObject</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testWrapScriptTagInCDATA"></a><a href="mxunit/0_framework.html#testWrapScriptTagInCDATA">testWrapScriptTagInCDATA</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testFile"></a><a href="mxunit/0_framework.html#testFile">testFile</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testBuildXmlDom"></a><a href="mxunit/0_framework.html#testBuildXmlDom">testBuildXmlDom</a></td><td>Success</td><td></td><td>1.813</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testFindNode2"></a><a href="mxunit/0_framework.html#testFindNode2">testFindNode2</a></td><td>Success</td><td></td><td>0.109</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testFindNode1"></a><a href="mxunit/0_framework.html#testFindNode1">testFindNode1</a></td><td>Success</td><td></td><td>0.063</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testIsWrapped"></a><a href="mxunit/0_framework.html#testIsWrapped">testIsWrapped</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testFindMXUnitInTitle"></a><a href="mxunit/0_framework.html#testFindMXUnitInTitle">testFindMXUnitInTitle</a></td><td>Success</td><td></td><td>0.562</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="testFindGoogleInTitle"></a><a href="mxunit/0_framework.html#testFindGoogleInTitle">testFindGoogleInTitle</a></td><td>Success</td><td></td><td>0.422</td>
+</tr>
+<tr valign="top" class="Error">
+<td><a href="mxunit/0_framework.html">framework</a></td><td><a name="DynamicTestCaseGenerationTest"></a><a href="mxunit/0_framework.html#DynamicTestCaseGenerationTest">DynamicTestCaseGenerationTest</a></td><td>Error</td><td>Template<br>
+<br>
+<code>Invalid CFML construct found on line 3 at column 11. at C:\LORDAdmin\mxunit\tests\framework\DynamicTestCaseGenerationTest.cfc:3 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:108 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:29 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testNormalizeDirectory"></a><a href="mxunit/1_runner.html#testNormalizeDirectory">testNormalizeDirectory</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testRunWithRelativeDirectoryShouldPass"></a><a href="mxunit/1_runner.html#testRunWithRelativeDirectoryShouldPass">testRunWithRelativeDirectoryShouldPass</a></td><td>Success</td><td></td><td>0.266</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testExcludes"></a><a href="mxunit/1_runner.html#testExcludes">testExcludes</a></td><td>Success</td><td></td><td>0.094</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="componentWithParseErrorShouldBeInTestResult"></a><a href="mxunit/1_runner.html#componentWithParseErrorShouldBeInTestResult">componentWithParseErrorShouldBeInTestResult</a></td><td>Success</td><td></td><td>0.078</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testRun"></a><a href="mxunit/1_runner.html#testRun">testRun</a></td><td>Success</td><td></td><td>0.094</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testRunWithBadRelativeDirectoryShouldFail"></a><a href="mxunit/1_runner.html#testRunWithBadRelativeDirectoryShouldFail">testRunWithBadRelativeDirectoryShouldFail</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testAccept"></a><a href="mxunit/1_runner.html#testAccept">testAccept</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testAcceptExcludesCompoundDirectory"></a><a href="mxunit/1_runner.html#testAcceptExcludesCompoundDirectory">testAcceptExcludesCompoundDirectory</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testAcceptExcludesDirectory"></a><a href="mxunit/1_runner.html#testAcceptExcludesDirectory">testAcceptExcludesDirectory</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testGetTests"></a><a href="mxunit/1_runner.html#testGetTests">testGetTests</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="getDirectoryQueryRecurseShouldRecurse"></a><a href="mxunit/1_runner.html#getDirectoryQueryRecurseShouldRecurse">getDirectoryQueryRecurseShouldRecurse</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testAcceptExcludes"></a><a href="mxunit/1_runner.html#testAcceptExcludes">testAcceptExcludes</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testAcceptExcludesCompoundFuzzy"></a><a href="mxunit/1_runner.html#testAcceptExcludesCompoundFuzzy">testAcceptExcludesCompoundFuzzy</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testGetComponentPath"></a><a href="mxunit/1_runner.html#testGetComponentPath">testGetComponentPath</a></td><td>Success</td><td></td><td>3.218</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testGetDirectoryQuery"></a><a href="mxunit/1_runner.html#testGetDirectoryQuery">testGetDirectoryQuery</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testRunBadDirectory"></a><a href="mxunit/1_runner.html#testRunBadDirectory">testRunBadDirectory</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testRunTestCase"></a><a href="mxunit/1_runner.html#testRunTestCase">testRunTestCase</a></td><td>Success</td><td></td><td>0.344</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testRunTestSuite"></a><a href="mxunit/1_runner.html#testRunTestSuite">testRunTestSuite</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testRunDirectory"></a><a href="mxunit/1_runner.html#testRunDirectory">testRunDirectory</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/1_runner.html">runner</a></td><td><a name="testRun"></a><a href="mxunit/1_runner.html#testRun">testRun</a></td><td>Success</td><td></td><td>0.171</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="simpleCompareDifferences"></a><a href="mxunit/2_plugintests.html#simpleCompareDifferences">simpleCompareDifferences</a></td><td>Failure</td><td>:: Expected [aaaaaaa b aaaaaa] BUT RECEIVED [aaaaaaa d aaaaaa]. These values should be the same. <br>
+<br>
+<code>:: Expected [aaaaaaa b aaaaaa] BUT RECEIVED [aaaaaaa d aaaaaa]. These values should be the same.  at C:\LORDAdmin\mxunit\framework\Assert.cfc:164 at C:\LORDAdmin\mxunit\framework\Assert.cfc:255 at C:\LORDAdmin\mxunit\PluginDemoTests\CompareDialogTest.cfc:13 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="arrayCompareDifferencesComplex"></a><a href="mxunit/2_plugintests.html#arrayCompareDifferencesComplex">arrayCompareDifferencesComplex</a></td><td>Failure</td><td>Expected arrays to match but did not. See debug output for a visual display of the differences. Data mismatch. . :: Expected [row 5: 6 row 9, struct compare result: keys unique to struct 1: keynotins2 structure path [ "nested" ][ "somevalue" ]: 5 structure path [ "one" ]: one row 10: d] BUT RECEIVED [row 5: 5 row 9, struct compare result: keys unique to struct 2: keynotins1 structure path [ "nested" ][ "somevalue" ]: 50000 structure path [ "one" ]: ona row 10: e]. These values should be the same. <br>
+<br>
+<code>Expected arrays to match but did not. See debug output for a visual display of the differences. Data mismatch. . :: Expected [row 5: 6<br/>row 9, struct compare result: keys unique to struct 1: keynotins2<br/>structure path [ "nested" ][ "somevalue" ]: 5<br/>structure path [ "one" ]: one<br/>row 10: d] BUT RECEIVED [row 5: 5<br/>row 9, struct compare result: keys unique to struct 2: keynotins1<br/>structure path [ "nested" ][ "somevalue" ]: 50000<br/>structure path [ "one" ]: ona<br/>row 10: e]. These values should be the same.  at C:\LORDAdmin\mxunit\framework\Assert.cfc:164 at C:\LORDAdmin\mxunit\framework\Assert.cfc:255 at C:\LORDAdmin\mxunit\framework\Assert.cfc:346 at C:\LORDAdmin\mxunit\framework\Assert.cfc:242 at C:\LORDAdmin\mxunit\PluginDemoTests\CompareDialogTest.cfc:45 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="structCompareDifferences"></a><a href="mxunit/2_plugintests.html#structCompareDifferences">structCompareDifferences</a></td><td>Failure</td><td>Expected Structures to match but did not. See debug output for a visual display of the differences. Keys do not match.  :: Expected [keys unique to struct 1: keynotins2 structure path [ "nested" ][ "somevalue" ]: 5 structure path [ "one" ]: one] BUT RECEIVED [keys unique to struct 2: keynotins1 structure path [ "nested" ][ "somevalue" ]: 50000 structure path [ "one" ]: ona]. These values should be the same. <br>
+<br>
+<code>Expected Structures to match but did not. See debug output for a visual display of the differences. Keys do not match.  :: Expected [keys unique to struct 1: keynotins2<br/>structure path [ "nested" ][ "somevalue" ]: 5<br/>structure path [ "one" ]: one] BUT RECEIVED [keys unique to struct 2: keynotins1<br/>structure path [ "nested" ][ "somevalue" ]: 50000<br/>structure path [ "one" ]: ona]. These values should be the same.  at C:\LORDAdmin\mxunit\framework\Assert.cfc:164 at C:\LORDAdmin\mxunit\framework\Assert.cfc:255 at C:\LORDAdmin\mxunit\framework\Assert.cfc:333 at C:\LORDAdmin\mxunit\PluginDemoTests\CompareDialogTest.cfc:23 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.015</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="arrayCompareDifferences"></a><a href="mxunit/2_plugintests.html#arrayCompareDifferences">arrayCompareDifferences</a></td><td>Failure</td><td>Expected arrays to match but did not. See debug output for a visual display of the differences. Data mismatch.  Array 2 was longer than array 1. . :: Expected [row 5: 5] BUT RECEIVED [row 5: 6 array 2 had 3 additional row(s)]. These values should be the same. <br>
+<br>
+<code>Expected arrays to match but did not. See debug output for a visual display of the differences. Data mismatch.  Array 2 was longer than array 1. . :: Expected [row 5: 5] BUT RECEIVED [row 5: 6<br/>array 2 had 3 additional row(s)]. These values should be the same.  at C:\LORDAdmin\mxunit\framework\Assert.cfc:164 at C:\LORDAdmin\mxunit\framework\Assert.cfc:255 at C:\LORDAdmin\mxunit\framework\Assert.cfc:346 at C:\LORDAdmin\mxunit\framework\Assert.cfc:242 at C:\LORDAdmin\mxunit\PluginDemoTests\CompareDialogTest.cfc:30 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Error">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="queryCompareDifferences"></a><a href="mxunit/2_plugintests.html#queryCompareDifferences">queryCompareDifferences</a></td><td>Error</td><td>Expression<br>
+<br>
+<code>Cannot find CFML template for custom tag querysim. at C:\LORDAdmin\mxunit\PluginDemoTests\CompareDialogTest.cfc:54 at C:\LORDAdmin\mxunit\PluginDemoTests\CompareDialogTest.cfc:17 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="arrayCompareDifferences2"></a><a href="mxunit/2_plugintests.html#arrayCompareDifferences2">arrayCompareDifferences2</a></td><td>Failure</td><td>Expected arrays to match but did not. See debug output for a visual display of the differences. Data mismatch.  Array 1 was longer than array 2. . :: Expected [row 5: 6 array 1 had 3 additional row(s)] BUT RECEIVED [row 5: 5]. These values should be the same. <br>
+<br>
+<code>Expected arrays to match but did not. See debug output for a visual display of the differences. Data mismatch.  Array 1 was longer than array 2. . :: Expected [row 5: 6<br/>array 1 had 3 additional row(s)] BUT RECEIVED [row 5: 5]. These values should be the same.  at C:\LORDAdmin\mxunit\framework\Assert.cfc:164 at C:\LORDAdmin\mxunit\framework\Assert.cfc:255 at C:\LORDAdmin\mxunit\framework\Assert.cfc:346 at C:\LORDAdmin\mxunit\framework\Assert.cfc:242 at C:\LORDAdmin\mxunit\PluginDemoTests\CompareDialogTest.cfc:37 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.016</td>
+</tr>
+<tr valign="top" class="Error">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="willThrowFunkyNonArrayException"></a><a href="mxunit/2_plugintests.html#willThrowFunkyNonArrayException">willThrowFunkyNonArrayException</a></td><td>Error</td><td>class coldfusion.runtime.Struct<br>
+<br>
+<code>Object of type class coldfusion.runtime.Struct cannot be used as an array at C:\LORDAdmin\mxunit\PluginDemoTests\ComplexExceptionTypeErrorTest.cfc:15 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testTwo"></a><a href="mxunit/2_plugintests.html#testTwo">testTwo</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testOne"></a><a href="mxunit/2_plugintests.html#testOne">testOne</a></td><td>Success</td><td></td><td>0.078</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="thisShouldFail_BecauseExpectedExceptionIsNotThrown"></a><a href="mxunit/2_plugintests.html#thisShouldFail_BecauseExpectedExceptionIsNotThrown">thisShouldFail_BecauseExpectedExceptionIsNotThrown</a></td><td>Failure</td><td>hi mom!<br>
+<br>
+<code>hi mom! at C:\LORDAdmin\mxunit\PluginDemoTests\ExpectedExceptionTest.cfc:5 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testThatWillTake5Seconds"></a><a href="mxunit/2_plugintests.html#testThatWillTake5Seconds">testThatWillTake5Seconds</a></td><td>Success</td><td></td><td>5.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testAssertTrueCFCUnitStyleFailure"></a><a href="mxunit/2_plugintests.html#testAssertTrueCFCUnitStyleFailure">testAssertTrueCFCUnitStyleFailure</a></td><td>Failure</td><td>1 does not equal 2<br>
+<br>
+<code>1 does not equal 2 at C:\LORDAdmin\mxunit\framework\Assert.cfc:143 at C:\LORDAdmin\mxunit\framework\Assert.cfc:362 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:121 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testFail"></a><a href="mxunit/2_plugintests.html#testFail">testFail</a></td><td>Failure</td><td>failing intentionally<br>
+<br>
+<code>failing intentionally at C:\LORDAdmin\mxunit\framework\Assert.cfc:143 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:64 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testAssertTrueCFCUnitStyle"></a><a href="mxunit/2_plugintests.html#testAssertTrueCFCUnitStyle">testAssertTrueCFCUnitStyle</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Error">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testRequestDotDebug_WillShowUpWithoutDebugBeingCalledFirst"></a><a href="mxunit/2_plugintests.html#testRequestDotDebug_WillShowUpWithoutDebugBeingCalledFirst">testRequestDotDebug_WillShowUpWithoutDebugBeingCalledFirst</a></td><td>Error</td><td>Object<br>
+<br>
+<code>The debug method was not found. at C:\LORDAdmin\mxunit\PluginDemoTests\SomeObject.cfc:19 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:42 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testWithDebug"></a><a href="mxunit/2_plugintests.html#testWithDebug">testWithDebug</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Error">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testAnotherError"></a><a href="mxunit/2_plugintests.html#testAnotherError">testAnotherError</a></td><td>Error</td><td>Expression<br>
+<br>
+<code>An error occured while Parsing an XML document. at C:\LORDAdmin\mxunit\framework\Formatters.cfc:14 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:84 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testAssertTrueOK"></a><a href="mxunit/2_plugintests.html#testAssertTrueOK">testAssertTrueOK</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Error">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="throwErrorFromComponentNotInWorkspace"></a><a href="mxunit/2_plugintests.html#throwErrorFromComponentNotInWorkspace">throwErrorFromComponentNotInWorkspace</a></td><td>Error</td><td>Application<br>
+<br>
+<code>Could not find the ColdFusion Component or Interface SomeComponent. at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:78 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Error">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testRequestDotDebug"></a><a href="mxunit/2_plugintests.html#testRequestDotDebug">testRequestDotDebug</a></td><td>Error</td><td>Object<br>
+<br>
+<code>The debug method was not found. at C:\LORDAdmin\mxunit\PluginDemoTests\SomeObject.cfc:19 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:36 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.016</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testNotEquals"></a><a href="mxunit/2_plugintests.html#testNotEquals">testNotEquals</a></td><td>Failure</td><td>:: Expected [hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny ] BUT RECEIVED [hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny ]. These values should be the same. <br>
+<br>
+<code>:: Expected [hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny hey nonny ] BUT RECEIVED [hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny hey ninny ]. These values should be the same.  at C:\LORDAdmin\mxunit\framework\Assert.cfc:164 at C:\LORDAdmin\mxunit\framework\Assert.cfc:255 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:68 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testRequestDotDebug_WillPassInBothPluginAndWeb"></a><a href="mxunit/2_plugintests.html#testRequestDotDebug_WillPassInBothPluginAndWeb">testRequestDotDebug_WillPassInBothPluginAndWeb</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Error">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testDoSomething"></a><a href="mxunit/2_plugintests.html#testDoSomething">testDoSomething</a></td><td>Error</td><td>Application<br>
+<br>
+<code>you ain't gonna see that struct at C:\LORDAdmin\mxunit\PluginDemoTests\SomeObject.cfc:7 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:30 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testAssertTrueCFUnitStyleFailure"></a><a href="mxunit/2_plugintests.html#testAssertTrueCFUnitStyleFailure">testAssertTrueCFUnitStyleFailure</a></td><td>Failure</td><td>false ain't true, sucka<br>
+<br>
+<code>false ain't true, sucka at C:\LORDAdmin\mxunit\framework\Assert.cfc:143 at C:\LORDAdmin\mxunit\framework\Assert.cfc:362 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:126 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testAssertTrueFailingWithoutMessage"></a><a href="mxunit/2_plugintests.html#testAssertTrueFailingWithoutMessage">testAssertTrueFailingWithoutMessage</a></td><td>Failure</td><td>mxunit test failure<br>
+<br>
+<code>mxunit test failure at C:\LORDAdmin\mxunit\framework\Assert.cfc:143 at C:\LORDAdmin\mxunit\framework\Assert.cfc:362 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:106 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testOK"></a><a href="mxunit/2_plugintests.html#testOK">testOK</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testDoSomethingThenExitToGetDump"></a><a href="mxunit/2_plugintests.html#testDoSomethingThenExitToGetDump">testDoSomethingThenExitToGetDump</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testAssertTrueFailing"></a><a href="mxunit/2_plugintests.html#testAssertTrueFailing">testAssertTrueFailing</a></td><td>Failure</td><td>this should fail because one equals two is not true<br>
+<br>
+<code>this should fail because one equals two is not true at C:\LORDAdmin\mxunit\framework\Assert.cfc:143 at C:\LORDAdmin\mxunit\framework\Assert.cfc:362 at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:102 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Error">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testError"></a><a href="mxunit/2_plugintests.html#testError">testError</a></td><td>Error</td><td>Application<br>
+<br>
+<code>throwing error intentially at C:\LORDAdmin\mxunit\PluginDemoTests\HodgePodgeTest.cfc:74 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.015</td>
+</tr>
+<tr valign="top" class="Error">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testPrivateDirectly"></a><a href="mxunit/2_plugintests.html#testPrivateDirectly">testPrivateDirectly</a></td><td>Error</td><td>Application<br>
+<br>
+<code>The method somePrivateMethod was not found in component mxunit.pluginDemoTests.PrivateMethodTest. at C:\LORDAdmin\mxunit\PluginDemoTests\PrivateMethodTest.cfc:12 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testPrivateAndLookNoError"></a><a href="mxunit/2_plugintests.html#testPrivateAndLookNoError">testPrivateAndLookNoError</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+<tr valign="top" class="Failure">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testFail"></a><a href="mxunit/2_plugintests.html#testFail">testFail</a></td><td>Failure</td><td>failing intentionally<br>
+<br>
+<code>failing intentionally at C:\LORDAdmin\mxunit\framework\Assert.cfc:143 at C:\LORDAdmin\mxunit\PluginDemoTests\SingleFailureTest.cfc:6 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testOne"></a><a href="mxunit/2_plugintests.html#testOne">testOne</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Error">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="testError"></a><a href="mxunit/2_plugintests.html#testError">testError</a></td><td>Error</td><td>Application<br>
+<br>
+<code>This error is intentional at C:\LORDAdmin\mxunit\PluginDemoTests\ThrowsAnErrorTest.cfc:11 at C:\LORDAdmin\mxunit\framework\TestCase.cfc:115 at C:\LORDAdmin\mxunit\framework\decorators\DataProviderDecorator.cfc:31 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:99 at C:\LORDAdmin\mxunit\framework\TestSuiteRunner.cfc:52 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:131 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:37 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Error">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="CFScriptExpectedExceptionTest"></a><a href="mxunit/2_plugintests.html#CFScriptExpectedExceptionTest">CFScriptExpectedExceptionTest</a></td><td>Error</td><td>Application<br>
+<br>
+<code>The method TestCase was not found in component mxunit.pluginDemoTests.CFScriptExpectedExceptionTest. at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:108 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:29 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="Error">
+<td><a href="mxunit/2_plugintests.html">plugintests</a></td><td><a name="InvalidMarkupTest"></a><a href="mxunit/2_plugintests.html#InvalidMarkupTest">InvalidMarkupTest</a></td><td>Error</td><td>Template<br>
+<br>
+<code>Invalid CFML construct found on line 12 at column 9. at C:\LORDAdmin\mxunit\PluginDemoTests\InvalidMarkupTest.cfc:12 at C:\LORDAdmin\mxunit\framework\TestSuite.cfc:108 at C:\LORDAdmin\mxunit\runner\DirectoryTestSuite.cfc:29 at C:\LORDAdmin\mxunit\runner\HttpAntRunner.cfc:27</code></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testNormalizeArgumentsCFUnitTrue"></a><a href="mxunit/3_asserttests.html#testNormalizeArgumentsCFUnitTrue">testNormalizeArgumentsCFUnitTrue</a></td><td>Success</td><td></td><td>0.078</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertEqualsCFUnitFailure"></a><a href="mxunit/3_asserttests.html#testAssertEqualsCFUnitFailure">testAssertEqualsCFUnitFailure</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testNormalizeArgumentsDefaultXMLDoc"></a><a href="mxunit/3_asserttests.html#testNormalizeArgumentsDefaultXMLDoc">testNormalizeArgumentsDefaultXMLDoc</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testFailNotEquals"></a><a href="mxunit/3_asserttests.html#testFailNotEquals">testFailNotEquals</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertEquals_fails_for_longer_expected_array"></a><a href="mxunit/3_asserttests.html#assertEquals_fails_for_longer_expected_array">assertEquals_fails_for_longer_expected_array</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertFailures"></a><a href="mxunit/3_asserttests.html#testAssertFailures">testAssertFailures</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertEqualsCaseShouldPassOnSameStrings"></a><a href="mxunit/3_asserttests.html#testAssertEqualsCaseShouldPassOnSameStrings">testAssertEqualsCaseShouldPassOnSameStrings</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertEqualsNumbersFailures"></a><a href="mxunit/3_asserttests.html#testAssertEqualsNumbersFailures">testAssertEqualsNumbersFailures</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="whenAssertEqualsPassesExpectedAndActualValuesShouldBeEmpty"></a><a href="mxunit/3_asserttests.html#whenAssertEqualsPassesExpectedAndActualValuesShouldBeEmpty">whenAssertEqualsPassesExpectedAndActualValuesShouldBeEmpty</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testNormalizeArgumentsCFUnitEquals"></a><a href="mxunit/3_asserttests.html#testNormalizeArgumentsCFUnitEquals">testNormalizeArgumentsCFUnitEquals</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertEquals_passes_for_array_with_matching_arrays"></a><a href="mxunit/3_asserttests.html#assertEquals_passes_for_array_with_matching_arrays">assertEquals_passes_for_array_with_matching_arrays</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testFailEqualsCFUnit"></a><a href="mxunit/3_asserttests.html#testFailEqualsCFUnit">testFailEqualsCFUnit</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertEqualsCaseShouldFailOnDifferentCasedStrings"></a><a href="mxunit/3_asserttests.html#testAssertEqualsCaseShouldFailOnDifferentCasedStrings">testAssertEqualsCaseShouldFailOnDifferentCasedStrings</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="whenAssertEqualsFailsForStringsExpectedAndActualValuesShouldBePopulated"></a><a href="mxunit/3_asserttests.html#whenAssertEqualsFailsForStringsExpectedAndActualValuesShouldBePopulated">whenAssertEqualsFailsForStringsExpectedAndActualValuesShouldBePopulated</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testFailEquals"></a><a href="mxunit/3_asserttests.html#testFailEquals">testFailEquals</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertQueryEquals_fails_for_mismatching_queries"></a><a href="mxunit/3_asserttests.html#assertQueryEquals_fails_for_mismatching_queries">assertQueryEquals_fails_for_mismatching_queries</a></td><td>Success</td><td></td><td>0.047</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertEqualsStructsDeepComparison"></a><a href="mxunit/3_asserttests.html#testAssertEqualsStructsDeepComparison">testAssertEqualsStructsDeepComparison</a></td><td>Success</td><td></td><td>0.078</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertEquals_passes_for_matching_arrays"></a><a href="mxunit/3_asserttests.html#assertEquals_passes_for_matching_arrays">assertEquals_passes_for_matching_arrays</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertStructEquals_fails_for_mismatching_simple_structs"></a><a href="mxunit/3_asserttests.html#assertStructEquals_fails_for_mismatching_simple_structs">assertStructEquals_fails_for_mismatching_simple_structs</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertEquals_passes_for_array_with_matching_structs"></a><a href="mxunit/3_asserttests.html#assertEquals_passes_for_array_with_matching_structs">assertEquals_passes_for_array_with_matching_structs</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertEqualsStringsFailures"></a><a href="mxunit/3_asserttests.html#testAssertEqualsStringsFailures">testAssertEqualsStringsFailures</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertTrue"></a><a href="mxunit/3_asserttests.html#testAssertTrue">testAssertTrue</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertStructEquals_succeeds_for_matching_nested_structs_with_different_key_case"></a><a href="mxunit/3_asserttests.html#assertStructEquals_succeeds_for_matching_nested_structs_with_different_key_case">assertStructEquals_succeeds_for_matching_nested_structs_with_different_key_case</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testNormalizeArgumentsDefaultEmptyArray"></a><a href="mxunit/3_asserttests.html#testNormalizeArgumentsDefaultEmptyArray">testNormalizeArgumentsDefaultEmptyArray</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertEquals_fails_for_array_with_mismatching_arrays"></a><a href="mxunit/3_asserttests.html#assertEquals_fails_for_array_with_mismatching_arrays">assertEquals_fails_for_array_with_mismatching_arrays</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertEquals_passes_for_array_with_matching_queries"></a><a href="mxunit/3_asserttests.html#assertEquals_passes_for_array_with_matching_queries">assertEquals_passes_for_array_with_matching_queries</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertEqualsNumbers"></a><a href="mxunit/3_asserttests.html#testAssertEqualsNumbers">testAssertEqualsNumbers</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertFalseFailure"></a><a href="mxunit/3_asserttests.html#testAssertFalseFailure">testAssertFalseFailure</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testDoubleHashError"></a><a href="mxunit/3_asserttests.html#testDoubleHashError">testDoubleHashError</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertEquals_fails_for_longer_actual_array"></a><a href="mxunit/3_asserttests.html#assertEquals_fails_for_longer_actual_array">assertEquals_fails_for_longer_actual_array</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertEquals_fails_for_array_with_mismatching_structs"></a><a href="mxunit/3_asserttests.html#assertEquals_fails_for_array_with_mismatching_structs">assertEquals_fails_for_array_with_mismatching_structs</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testFailure"></a><a href="mxunit/3_asserttests.html#testFailure">testFailure</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testNormalizeArgumentsDefaultTrue"></a><a href="mxunit/3_asserttests.html#testNormalizeArgumentsDefaultTrue">testNormalizeArgumentsDefaultTrue</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertEquals_fails_for_array_with_mismatching_queries"></a><a href="mxunit/3_asserttests.html#assertEquals_fails_for_array_with_mismatching_queries">assertEquals_fails_for_array_with_mismatching_queries</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertQueryEquals_succeeds_for_equal_queries"></a><a href="mxunit/3_asserttests.html#assertQueryEquals_succeeds_for_equal_queries">assertQueryEquals_succeeds_for_equal_queries</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertEqualsStructsFailures"></a><a href="mxunit/3_asserttests.html#testAssertEqualsStructsFailures">testAssertEqualsStructsFailures</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testFailNotEqualsCFUnit"></a><a href="mxunit/3_asserttests.html#testFailNotEqualsCFUnit">testFailNotEqualsCFUnit</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testGetStringValue"></a><a href="mxunit/3_asserttests.html#testGetStringValue">testGetStringValue</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssert"></a><a href="mxunit/3_asserttests.html#testAssert">testAssert</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="failNotEqualsShouldAllowInvalidXMLCharsInActual"></a><a href="mxunit/3_asserttests.html#failNotEqualsShouldAllowInvalidXMLCharsInActual">failNotEqualsShouldAllowInvalidXMLCharsInActual</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertEqualsStructs"></a><a href="mxunit/3_asserttests.html#testAssertEqualsStructs">testAssertEqualsStructs</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertStructEquals_succeeds_for_matching_nested_structs"></a><a href="mxunit/3_asserttests.html#assertStructEquals_succeeds_for_matching_nested_structs">assertStructEquals_succeeds_for_matching_nested_structs</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testNormalizeArgumentsDefaultEquals"></a><a href="mxunit/3_asserttests.html#testNormalizeArgumentsDefaultEquals">testNormalizeArgumentsDefaultEquals</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertFalse"></a><a href="mxunit/3_asserttests.html#testAssertFalse">testAssertFalse</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertEquals"></a><a href="mxunit/3_asserttests.html#testAssertEquals">testAssertEquals</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="testAssertEqualsStrings"></a><a href="mxunit/3_asserttests.html#testAssertEqualsStrings">testAssertEqualsStrings</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/3_asserttests.html">asserttests</a></td><td><a name="assertStructEquals_fails_for_mismatching_nested_structs"></a><a href="mxunit/3_asserttests.html#assertStructEquals_fails_for_mismatching_nested_structs">assertStructEquals_fails_for_mismatching_nested_structs</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/4_assertdecoratortests.html">assertdecoratortests</a></td><td><a name="testAddHamcrestDecorator"></a><a href="mxunit/4_assertdecoratortests.html#testAddHamcrestDecorator">testAddHamcrestDecorator</a></td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/4_assertdecoratortests.html">assertdecoratortests</a></td><td><a name="testaddAssertDecorators"></a><a href="mxunit/4_assertdecoratortests.html#testaddAssertDecorators">testaddAssertDecorators</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/4_assertdecoratortests.html">assertdecoratortests</a></td><td><a name="testMXUnitExtensionsAdded"></a><a href="mxunit/4_assertdecoratortests.html#testMXUnitExtensionsAdded">testMXUnitExtensionsAdded</a></td><td>Success</td><td></td><td>0.015</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/4_assertdecoratortests.html">assertdecoratortests</a></td><td><a name="testAddFixtureDecorator"></a><a href="mxunit/4_assertdecoratortests.html#testAddFixtureDecorator">testAddFixtureDecorator</a></td><td>Success</td><td></td><td>0.016</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a href="mxunit/4_assertdecoratortests.html">assertdecoratortests</a></td><td><a name="testAddAssertionExtensionTemplate"></a><a href="mxunit/4_assertdecoratortests.html#testAddAssertionExtensionTemplate">testAddAssertionExtensionTemplate</a></td><td>Success</td><td></td><td>0.031</td>
+</tr>
+</table>
+</body>
+</html>

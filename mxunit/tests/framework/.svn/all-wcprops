@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework
+END
+querysim.cfm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/querysim.cfm
+END
+TestSuiteTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/TestSuiteTest.cfc
+END
+RemoteFacadeObjectCacheTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/RemoteFacadeObjectCacheTest.cfc
+END
+DynamicTestCaseGenerationTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/DynamicTestCaseGenerationTest.cfc
+END
+MXUnitAssertionExtensionsTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/MXUnitAssertionExtensionsTest.cfc
+END
+MockIntegrationTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/MockIntegrationTest.cfc
+END
+ComponentBlenderTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/ComponentBlenderTest.cfc
+END
+ConfigManagerTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/ConfigManagerTest.cfc
+END
+PublicProxyMakerTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/PublicProxyMakerTest.cfc
+END
+AssertTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/AssertTest.cfc
+END
+HtmlTestResultTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/HtmlTestResultTest.cfc
+END
+AssertDecoratorTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/AssertDecoratorTest.cfc
+END
+QueryTestResultTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/QueryTestResultTest.cfc
+END
+HamcrestTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/HamcrestTest.cfc
+END
+TestCaseExtendsTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/TestCaseExtendsTest.cfc
+END
+AssertSameTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/AssertSameTest.cfc
+END
+AssertionChainingTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/AssertionChainingTest.cfc
+END
+VersionReaderTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/VersionReaderTest.cfc
+END
+HamcrestMatcherTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/HamcrestMatcherTest.cfc
+END
+TestCaseTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/TestCaseTest.cfc
+END
+XPathAssertionTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/XPathAssertionTest.cfc
+END
+TestResultTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/TestResultTest.cfc
+END
+CSVUtilityTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/CSVUtilityTest.cfc
+END
+TestTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/TestTest.cfc
+END
+RemoteFacadeTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/RemoteFacadeTest.cfc
+END
+ExpectedExceptionTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/ExpectedExceptionTest.cfc
+END
+TagSoupTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/TagSoupTest.cfc
+END
+TestDecoratorTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/TestDecoratorTest.cfc
+END
+ComponentUtilsTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/ComponentUtilsTest.cfc
+END
+DataProviderTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/tests/framework/DataProviderTest.cfc
+END

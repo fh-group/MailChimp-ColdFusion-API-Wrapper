@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/PluginDemoTests/weirderrordemos
+END
+BustedSetupTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/PluginDemoTests/weirderrordemos/BustedSetupTest.cfc
+END
+BustedTearDownTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/PluginDemoTests/weirderrordemos/BustedTearDownTest.cfc
+END
+BustedConstructorTest.cfc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/webadmin.lord.com/!svn/ver/600/mxunit/PluginDemoTests/weirderrordemos/BustedConstructorTest.cfc
+END
