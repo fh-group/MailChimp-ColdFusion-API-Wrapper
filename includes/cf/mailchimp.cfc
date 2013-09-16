@@ -48,11 +48,11 @@
 			<cfhttpparam name="replaceInterests" value="#arguments.replaceGroups#" type="url">
 		
 			<cfloop query="arguments.subscribers">
-				<cfhttpparam name="batch[#currentrow#][email]" value="#arguments.subscribers.e#" type="url">
-				<cfhttpparam name="batch[#currentrow#][email_type]" value="html" type="url">
-				<cfhttpparam name="batch[#currentrow#][fname]" value="#arguments.subscribers.f#" type="url">
-				<cfhttpparam name="batch[#currentrow#][lname]" value="#arguments.subscribers.l#" type="url">
-				<cfhttpparam name="batch[#currentrow#][interests]" value="#arguments.subscribers.g#" type="url">
+				<cfhttpparam name="batch[#currentrow#][EMAIL]" value="#arguments.subscribers.e#" type="url">
+				<cfhttpparam name="batch[#currentrow#][EMAIL_TYPE]" value="html" type="url">
+				<cfhttpparam name="batch[#currentrow#][FNAME]" value="#arguments.subscribers.f#" type="url">
+				<cfhttpparam name="batch[#currentrow#][LNAME]" value="#arguments.subscribers.l#" type="url">
+				<cfhttpparam name="batch[#currentrow#][INTERESTS]" value="#arguments.subscribers.g#" type="url">
 			</cfloop>
 		</cfhttp>
 		
