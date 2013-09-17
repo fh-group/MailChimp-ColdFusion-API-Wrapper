@@ -48,11 +48,11 @@
 			<cfhttpparam name="replaceInterests" value="#arguments.replaceGroups#" type="url">
 		
 			<cfloop query="arguments.subscribers">
-				<cfhttpparam name="batch[#currentrow#][EMAIL]" value="#arguments.subscribers.e#" type="url">
-				<cfhttpparam name="batch[#currentrow#][EMAIL_TYPE]" value="html" type="url">
-				<cfhttpparam name="batch[#currentrow#][FNAME]" value="#arguments.subscribers.f#" type="url">
-				<cfhttpparam name="batch[#currentrow#][LNAME]" value="#arguments.subscribers.l#" type="url">
-				<cfhttpparam name="batch[#currentrow#][INTERESTS]" value="#arguments.subscribers.g#" type="url">
+				<cfhttpparam name="batch[#currentrow#][EMAIL]" value="#arguments.subscribers.e#" type="formfield">
+				<cfhttpparam name="batch[#currentrow#][EMAIL_TYPE]" value="html" type="formfield">
+				<cfhttpparam name="batch[#currentrow#][FNAME]" value="#arguments.subscribers.f#" type="formfield">
+				<cfhttpparam name="batch[#currentrow#][LNAME]" value="#arguments.subscribers.l#" type="formfield">
+				<cfhttpparam name="batch[#currentrow#][INTERESTS]" value="#arguments.subscribers.g#" type="formfield">
 			</cfloop>
 		</cfhttp>
 		
@@ -94,7 +94,7 @@
 			<cfhttpparam name="send_notify" value="#arguments.send_notify#" type="url">
 		
 			<cfloop query="arguments.subscribers">
-				<cfhttpparam name="emails[#currentrow#]" value="#email#" type="url">
+				<cfhttpparam name="emails[#currentrow#]" value="#email#" type="formfield">
 			</cfloop>
 		</cfhttp>
 		
@@ -149,8 +149,8 @@
 			</cfif>
 			<cfset count = 0 />
 			<cfloop collection="#arguments.lists#" item="groupItem">
-				<cfhttpparam name="merge_vars[GROUPINGS][#count#][name]" value="#arguments.lists[groupItem]["group"]#" type="url">
-				<cfhttpparam name="merge_vars[GROUPINGS][#count#][groups]" value="#arguments.lists[groupItem]["groups"]#" type="url">
+				<cfhttpparam name="merge_vars[GROUPINGS][#count#][name]" value="#arguments.lists[groupItem]["group"]#" type="formfield">
+				<cfhttpparam name="merge_vars[GROUPINGS][#count#][groups]" value="#arguments.lists[groupItem]["groups"]#" type="formfield">
 				<cfset count = count + 1 />
 			</cfloop>
 		</cfhttp>	
