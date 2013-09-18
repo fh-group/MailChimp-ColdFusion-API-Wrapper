@@ -77,7 +77,6 @@
 	-->
 	<cffunction name="listBatchUnsubscribe" access="public" Returntype="Any">
 		<cfargument name="output" required="false" type="string" default="#this.options.output#">
-		<cfargument name="apikey" required="true" type="string">
 		<cfargument name="id" required="true" type="string">
 		<cfargument name="subscribers" required="true" type="query">
 		<cfargument name="delete_member" required="false" type="boolean" default="0">
