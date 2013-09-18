@@ -431,8 +431,9 @@
 		<cfargument name="data" required="true" type="any">
 
 		<cfscript>
-			if(LCase(arguments.output) == "json") return DeserializeJSON(arguments.data);
-			else if(LCase(arguments.output) == "xml") return xmlParse(arguments.data);
+			if(LCase(arguments.output) == "json" && isJSON(arguments.data)) return DeserializeJSON(arguments.data);
+			else if(LCase(arguments.output) == "xml" && isXML(arguments.data)) return xmlParse(arguments.data);
+			return htmlEditFormat(arguments.data);
 		</cfscript>
 	</cffunction>
 
