@@ -45,7 +45,7 @@
 			<cfhttpparam name="id" value="#arguments.id#" type="url">
 			<cfhttpparam name="double_optin" value="#arguments.sendOptInConfirm#" type="url">
 			<cfhttpparam name="update_existing" value="#arguments.updateExisting#" type="url">
-			<cfhttpparam name="replaceInterests" value="#arguments.replaceGroups#" type="url">
+			<cfhttpparam name="replace_interests" value="#arguments.replaceGroups#" type="url">
 
 			<cfloop query="arguments.subscribers">
 				<cfhttpparam name="batch[#currentrow#][EMAIL]" value="#arguments.subscribers.e#" type="formfield">
