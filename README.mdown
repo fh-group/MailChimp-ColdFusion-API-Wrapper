@@ -1,3 +1,5 @@
+# Deprecated due to old API sunsets. Please use [cf-mailchimp](https://github.com/kevindb/cf-mailchimp/) instead by Kevin Morris.
+
 # MailChimp ColdFusion API Wrapper
 
 ## About
